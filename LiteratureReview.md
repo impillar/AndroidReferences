@@ -108,6 +108,7 @@
 + Enhancing Security of Linux-based Android Devices, 15th international linux system technology conference, 2008
 + Semantically Rich Application-CEntric Security in Android, ACSAC 2009 (tool: Saint)
 + YAASE: Yet Another Android Security Extension, IEEE International Conference on Privacy, Security, Risk and Trust, and IEEE International Conference on Social Computing 2011
++ Aurasium: Practical Policy Enforcement for Android Applications, USENIX Security 2012
 + Security Enhanced (SE) Android: Bringing Flexible MAC to Android, NDSS 2013
 + ASM: A Programmable Interface for Extending Android Security, USENIX Security, 2014
 + Surveying the Development of Biometric User Authentication on Mobile Phones, IEEE Communications Surveys & Tutorials, 2015
@@ -156,6 +157,7 @@
 + Divide-and-Conquer: Why Android Malware cannot be Stopped, ARES 2014 (tool:Sand-Finger)
 + Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware, EuroSec 2014
 + You Shouldn't Collect My Secrets: Thwarting Sensitive Keystroke Leakage in Mobile IME Apps, USENIX Security 2015
++ COVERT: Compositional Analysis of Android Inter-App Permission Leakage, TSE 2015
 + Life after App Unistallation: Are the Data Still Alive? Data Residue Attacks on Android, NDSS 2016
 
 ## Performance Analysis
