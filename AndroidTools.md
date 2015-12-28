@@ -57,6 +57,7 @@
 + [Bytecode-Viewer](https://github.com/Konloch/bytecode-viewer) – A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 + [CodeInspect](http://sseblog.ec-spride.de/2014/12/codeinspect/) – A Jimple-based Reverse-Engineering framework for Android and Java applications.
 + [dedex](https://github.com/mariokmk/dedex) – A command line tool for disassembling Android DEX files.
++ [enjarify](https://github.com/google/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode
 + [Dex2Jar](https://code.google.com/p/dex2jar/) – Tools to work with android .dex and java .class files
 + [dexdisassembler](https://github.com/mariokmk/dexdisassembler) – A GTK tool for disassembling Android DEX files.
 + [Fern Flower](https://github.com/fesh0r/fernflower) – FernFlower Java decompiler
