@@ -96,6 +96,7 @@
 + Plagiarizing Smartphone Applications: Attack Strategies and Defense Techniques, ESSoS 2012
 + Fast, Scalable Detection of "Piggybacked" Mobile Applications, 3rd ACM Conference on Data and Application Security and Privacy, 2013
 + Achieving Accuracy and Scalability Simultaneously in Detecting Application Clones on Android Markets, ICSE 2014
++ ViewDoird: Towards Obfuscation-Resilient Mobile Application Repackaging Detection, WiSec 2014
 + WuKong: A Scalable and Accurate Two-Phase Approach to Android App Clone Detection, ISSTA 2015
 
 
@@ -161,6 +162,9 @@
 + Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware, EuroSec 2014
 + You Shouldn't Collect My Secrets: Thwarting Sensitive Keystroke Leakage in Mobile IME Apps, USENIX Security 2015
 + COVERT: Compositional Analysis of Android Inter-App Permission Leakage, TSE 2015
++ From System Services Freezing to System Server Shutdown in Android: All You Need is a Loop in an App, CCS 2015 (tool: ASV-Hunter, vul:Android Stroke Vulnerabilies)
++ Hare Hunting in the Wild Android: A Study on the Threat of Hanging Attribute References, CCS 2015 (tool: Harehunter, vul: hanging attribute references)
++ Android Root and its Providers: A Double-Edged Sword, CCS 2015
 + Life after App Unistallation: Are the Data Still Alive? Data Residue Attacks on Android, NDSS 2016
 
 ## Performance Analysis
@@ -180,8 +184,11 @@
 + A Grey-Box Approach for Automated GUI-model Generation of Mobile Applications, FASE 2013
 + Static Reference Analysis for GUI Objects in Android Software, CGO 2014
 + Static Window Transition Graphs for Android, ASE 2015
++ GUITAR: Piecing Together Android App GUIs from Memory Images, CCS 2015
 + Static Analysis of GUI Behavior in Android Applications, Ph.D Dissetation 2015
 
 ## Forensic Analysis
 + Checking App Behavior Against App Descriptions, ICSE 2014 (tool: CHABADA)
-+ WHYPER: Towards Automating Risk Assessment of Mobile Applications, USENIX Security 2013
++ WHYPER: Towards Automating Risk Assessment of Mobile Applications, USENIX Security 
++ VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images, CCS 2015
++ Towards Automatic Generation of Security-Centric Descriptions for Android Apps, CCS 2015 (tool: DESCRIBEME)
