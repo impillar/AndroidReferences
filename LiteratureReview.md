@@ -84,6 +84,7 @@
   + Using GUI Ripping for Automated Testing of Android Applications, ASE 2012 (tool: AndroidRipper)
   + Testing Android Apps Through Symbolic Execution, ACM SIGSOFT Software Engineering Notes 2012
   + Systematic Testing for Resource Leaks in Android Applications, ISSRE 2013
+  + Systematic Execution of Android Test Suites in Adverse Conditions, ISSTA 2015
 
 ## Native Code Analysis
 + Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy, NDSS 2016
@@ -95,6 +96,8 @@
 + Plagiarizing Smartphone Applications: Attack Strategies and Defense Techniques, ESSoS 2012
 + Fast, Scalable Detection of "Piggybacked" Mobile Applications, 3rd ACM Conference on Data and Application Security and Privacy, 2013
 + Achieving Accuracy and Scalability Simultaneously in Detecting Application Clones on Android Markets, ICSE 2014
++ WuKong: A Scalable and Accurate Two-Phase Approach to Android App Clone Detection, ISSTA 2015
+
 
 ## Ads & Libraries Analysis
 + An Investigation into the Use of Common Libraries in Android Apps, arXir 2015
