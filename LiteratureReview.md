@@ -25,6 +25,7 @@
   + EdgeMiner: Automatically Detecting Implicit Control Flow Transitions through the Android Framework, NDSS 2015
   + IccTA: Detecting Inter-Component Privacy Leaks in Android Apps, ICSE 2015
   + Static Control-Flow Analysis of User-Driven Callbacks in Android Applications, ICSE 2015
+  + HornDroid: Practical and Sound Static Analysis of Android Applications by SMT Solving, Euro S&P 2016
  
 + Dynamic Analysis
 
@@ -72,6 +73,7 @@
   + Sound and Precise Malware Analysis for Android via Pushdown Reachability and Entry-Point Saturation, SPSM 2013 (tool: Anadroid)
   + AppIntent: Analyzing Sensitive Data Transmission in Android for Privacy Leakage Detection, CCS 2013
   + Checking Interation-Based Declassification Policies for Android Using Symbolic Execution, ESORICS 2015 (tool: ClickRelease)
+  + HornDroid: Practical and Sound Static Analysis of Android Applications by SMT Solving, Euro S&P 2016
 
 + Realtime Monitoring
 
