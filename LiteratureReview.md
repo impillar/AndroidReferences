@@ -177,7 +177,12 @@
 + Responsiveness Analysis Tool for Android Applications, DeMobile 2014
 + Detecting Energy Bugs and Hotspots in Mobile Apps, FSE 2014
 + Retrofitting Concurrency for Android Applications Through Refactoring, FSE 2014 (tool: Asynchronizer)
++ Characterizing and Detecting Performance Bugs for Smartphone Applications, ICSE 2014 (tool: PerfChecker)
 + Optimizing Energy of HTTP Requests in Android Applications, DeMobile 2015
++ EnTrack: A System Facility for Analyzing Energy Consumption of Android System Services, UbiComp 2015
++ Runtime Verification of Expected Energy Consumption in Smartphones, Model Checking Software 2015
++ How Developers Detect and Fix Performance Bottlenecks in Android Apps, ICSME 2015
++ PersisDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions, arXiv 2015
 
 ## Android GUI Analysis
 + Automating GUI Testing for Android Applications, AST 2011
