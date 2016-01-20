@@ -32,7 +32,10 @@
 + [DroidSafe](http://mit-pac.github.io/droidsafe-src/) – The DroidSafe project develops novel program analysis techniques to diagnose and remove malicious code from Android mobile applications. The clone is located at DroidSafe-GitHub.
 + [Error-Prone](https://github.com/google/error-prone) – Catch common Java mistakes as compile-time errors
 + [FindBugs](http://findbugs.sourceforge.net/) + [FindSecurityBugs](http://h3xstream.github.io/find-sec-bugs/) – FindSecurityBugs is a extension for FindBugs which include security rules for Java applications. It will find cryptography problems as well as Android specific problems.
++ [ApkCombiner](https://github.com/lilicoding/ApkCombiner) - Combining multiple Android apps to one for supporting inter-app analysis
++ [IC3](https://github.com/siis/ic3) - Inter-Component Communication Analysis with COAL
 + [FlowDroid](http://sseblog.ec-spride.de/tools/flowdroid/) – FlowDroid is a context-, flow-, field-, object-sensitive and lifecycle-aware static taint analysis tool for Android applications.
++ [IccTA](https://github.com/lilicoding/soot-infoflow-android-iccta) - An Inter-Component Communication based Taint Analysis tool based on FlowDroid and Epicc/IC3 to perform inter-component privacy leaks in Android apps
 + [Lint](http://developer.android.com/tools/help/lint.html) – The Android lint tool is a static code analysis tool that checks your Android project source files for potential bugs and optimization improvements for correctness, security, performance, usability, accessibility, and internationalization.
 + [PMD](http://pmd.sourceforge.net/) – PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. It supports Java, Javascript, XML, XSL.
 + [Smali CFGs](https://github.com/EugenioDelfa/Smali-CFGs) – Smali Control Flow Graph’s
@@ -50,6 +53,7 @@
 ##Reverse Engineering Tools
 
 + [Androguard](https://github.com/androguard/androguard) – Reverse engineering, Malware and goodware analysis of Android applications … and more (ninja !)
++ [dockerfile-androguard] (https://github.com/dweinstein/dockerfile-androguard) - Docker file for building androguard dependencies w/ an optional interactive shell environment
 + [Android loadble Kernel Modules](https://github.com/strazzere/android-lkms) – It is mostly used for reversing and debugging on controlled systems/emulators.
 + [AndBug](https://github.com/swdunlop/AndBug) – Android Debugging Library
 + [ApkTool](https://code.google.com/p/android-apktool/) – A tool for reverse engineering Android Apk Files
@@ -57,7 +61,7 @@
 + [Bytecode-Viewer](https://github.com/Konloch/bytecode-viewer) – A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 + [CodeInspect](http://sseblog.ec-spride.de/2014/12/codeinspect/) – A Jimple-based Reverse-Engineering framework for Android and Java applications.
 + [dedex](https://github.com/mariokmk/dedex) – A command line tool for disassembling Android DEX files.
-+ [enjarify](https://github.com/google/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode
++ [enjarify](https://github.com/google/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode :star:
 + [Dex2Jar](https://code.google.com/p/dex2jar/) – Tools to work with android .dex and java .class files
 + [dexdisassembler](https://github.com/mariokmk/dexdisassembler) – A GTK tool for disassembling Android DEX files.
 + [Fern Flower](https://github.com/fesh0r/fernflower) – FernFlower Java decompiler
