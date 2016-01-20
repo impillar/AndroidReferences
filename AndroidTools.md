@@ -41,6 +41,7 @@
 + [Smali CFGs](https://github.com/EugenioDelfa/Smali-CFGs) – Smali Control Flow Graph’s
 + [Smali and Baksmali](https://code.google.com/p/smali/) – smali/baksmali is an assembler/disassembler for the dex format used by dalvik, Android’s Java VM implementation.
 + [Thresher](http://pl.cs.colorado.edu/projects/thresher/) – Thresher is a static analysis tool that specializes in checking heap reachability properties. Its secret sauce is using a coarse up-front points-to analysis to focus a precise symbolic analysis on the alarms reported by the points-to analysis.
++ [SuSi](https://github.com/secure-software-engineering/SuSi) - automatically discover and categorize sources and sinks in the Android framework
 
 ##Dynamic Analysis Tools
 
