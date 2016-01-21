@@ -94,7 +94,7 @@
 ## Clone Analysis
 + Juxtapp: A Scalable System for Detecting Code Resuse Among Android Applications, DIMVA 2012
 + Attack of the Clones: Detecting Cloned Applications on Android Markets, ESORICS 2012
-+ Detecting Repackaged Smartphone Applications in Third-party Android Marketplaces, 2nd ACM Conference on Data and Application Security and Privacy, 2012
++ Detecting Repackaged Smartphone Applications in Third-party Android Marketplaces, 2nd ACM Conference on Data and Application Security and Privacy, 2012 (tool: DroidMOSS)
 + Plagiarizing Smartphone Applications: Attack Strategies and Defense Techniques, ESSoS 2012
 + Fast, Scalable Detection of "Piggybacked" Mobile Applications, 3rd ACM Conference on Data and Application Security and Privacy, 2013
 + Achieving Accuracy and Scalability Simultaneously in Detecting Application Clones on Android Markets, ICSE 2014
