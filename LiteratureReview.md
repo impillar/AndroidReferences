@@ -56,7 +56,7 @@
   + Machine Learning-Based Malware Detection for Android Applications: History Matters! Technical Report, 2014
   + Linear SVM-Based Android Malware Detection, Frontier and Innovation in Future Computing and Communications 2014
   + Mining Apps for Abnormal Usage of Sensitive Data, ICSE 2015
-  + Obfuscation-Resilient, Efficient, and Accurate Detection and Family Identification of Android Malware, Technical Report (tool: RevealDroid)
+  + Obfuscation-Resilient, Efficient, and Accurate Detection and Family Identification of Android Malware, Technical Report, 2015 (tool: RevealDroid)
 
 + Fingerprint & matching
 
