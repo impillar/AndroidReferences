@@ -153,6 +153,7 @@
 + AndroSAT: Security Analysis Tool for Android Application, 8th International Conference on Emerging Security Information, System and Technologies, 2014
 + A Machine-learning Approach for Classifying and Categorizing Android Sources and Sinks, NDSS 2014
 + Securing Android: A Survey, Taxonomy, and Challenges, CSUR 2015
++ Collaborative Security: A Survey and Taxonomy, CSUR 2015
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
