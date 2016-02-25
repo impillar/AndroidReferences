@@ -57,6 +57,7 @@
   + Linear SVM-Based Android Malware Detection, Frontier and Innovation in Future Computing and Communications 2014
   + Mining Apps for Abnormal Usage of Sensitive Data, ICSE 2015
   + Obfuscation-Resilient, Efficient, and Accurate Detection and Family Identification of Android Malware, Technical Report, 2015 (tool: RevealDroid)
+  + StormDroid: A Streaminglized Machine Learning-based System for Detecting Android Malware, AsiaCCS 2016
 
 + Fingerprint & matching
 
@@ -109,6 +110,8 @@
 ## Inter-Component Communication Analysis
 + Analyzing Inter-Application Communication in Android, MobiSys 2011 (tool: ComDroid)
 + Effective Inter-Component Communication Mapping in Android with Epicc: An Essential Step Towards Holistic Security Analysis, USENIX Security 2013
++ DroidDisintegrator: Intra-Application Information Flow Control in Android Apps, AsiaCCS 2016
++ Checking Intent-based Communication in Android with Intent Space Analysis, AsiaCCS 2016
 
 ## Android OS Enhancement
 + Enhancing Security of Linux-based Android Devices, 15th international linux system technology conference, 2008
@@ -121,6 +124,7 @@
 + DeepDroid: Dynamically Enforcing Enterprise Policy on Android Devices, NDSS 2015
 + Boxify: Full-fledged App Sandboxing for Stock Android, USENIX Security 2015
 + FLEXDROID: Enforcing In-App Privilege Separation in Android, NDSS 2016
++ FLEX: A Flexible Code Authentication Framework for Delegating Mobile App Customization, AsiaCCS 2016
 
 ## Android Permission System
 + A Formal Model to Analyze the Permission Authorization and Enforcement in the Android Framework, IEEE International Conference on Social Computing/IEEE International Conferene on Privacy, Security, Risk and Turst 2010
@@ -131,12 +135,14 @@
 + PScout: Analyzing the Android Permission Specification, CCS 2012
 + Permission based Android security: Issues and Countermeasures, Computers&Security 2014
 + Android Permission Remystified: A Field Study on Contextual Integrity, USENIX Security 2015
++ revDroid: Code Analysis of the Side Effects after Dynamic Permission Revocation of Android Apps, AsiaCCS 2016
 
 ## Anti-Malware Tool Auditing
 + DroidChameleon: Evaluating Android Anti-malware Against Transformation Attacks, AsiaCCS 2013
 + ADAM: An Automatic and Extensible Platform to Stree Test Android Anti-virus Systems, DIMVA 2013
 + Catch Me If You Can: Evaluating Android Anti-Malware Against Transformation Attacks, IEEE TIFS 2014
 + Towards Discovering and Understanding Unexpected Hazards in Tailoring Antivirus Software for Android, AsiaCCS 2015
++ Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016
 
 ## Characterization and Evolution
 + Understanding Android Security, S&P 2009
@@ -150,6 +156,7 @@
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
++ Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016
 
 ## New vulnerabilities & Attacks
 + Fuzzing the Phone in Your Phone, Black Hat USA 2009
@@ -168,6 +175,7 @@
 + Hare Hunting in the Wild Android: A Study on the Threat of Hanging Attribute References, CCS 2015 (tool: Harehunter, vul: hanging attribute references)
 + Android Root and its Providers: A Double-Edged Sword, CCS 2015
 + Life after App Unistallation: Are the Data Still Alive? Data Residue Attacks on Android, NDSS 2016
++ CDRep: Automatic Repair of Cryptographic-Misuses in Android Applications, AsiaCCS 2016
 
 ## Performance Analysis
 + Bootstrapping Energy Debugging on Smartphones: A First Look at Energy Bugs in Mobile Devices, HotNets-X 2011
@@ -193,6 +201,7 @@
 + Static Window Transition Graphs for Android, ASE 2015
 + GUITAR: Piecing Together Android App GUIs from Memory Images, CCS 2015
 + Static Analysis of GUI Behavior in Android Applications, Ph.D Dissetation 2015
++ Attacks and Defence on Android Free Floating Windows, AsiaCCS 2016
 
 ## Forensic Analysis
 + Checking App Behavior Against App Descriptions, ICSE 2014 (tool: CHABADA)
