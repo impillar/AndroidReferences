@@ -26,6 +26,8 @@
   + IccTA: Detecting Inter-Component Privacy Leaks in Android Apps, ICSE 2015
   + Static Control-Flow Analysis of User-Driven Callbacks in Android Applications, ICSE 2015
   + HornDroid: Practical and Sound Static Analysis of Android Applications by SMT Solving, Euro S&P 2016
+  + StubDroid: Automatic Inference of Precise Data-flow Summaries for the Android Framework, ICSE 2016
+  + Toward a Framework for Detecting Privacy Policy Violation in Android Application Code, ICSE 2016
  
 + Dynamic Analysis
 
@@ -88,6 +90,7 @@
   + Testing Android Apps Through Symbolic Execution, ACM SIGSOFT Software Engineering Notes 2012
   + Systematic Testing for Resource Leaks in Android Applications, ISSRE 2013
   + Systematic Execution of Android Test Suites in Adverse Conditions, ISSTA 2015
+  + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
 
 ## Native Code Analysis
 + Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy, NDSS 2016
@@ -110,6 +113,7 @@
 ## Inter-Component Communication Analysis
 + Analyzing Inter-Application Communication in Android, MobiSys 2011 (tool: ComDroid)
 + Effective Inter-Component Communication Mapping in Android with Epicc: An Essential Step Towards Holistic Security Analysis, USENIX Security 2013
++ Combining Static Analysis with Probabilistic Models to Enable Market-Scale Android Inter-component Analysis, POPL 2016 (tool: PRIMO [http://siis.cse.psu.edu/primo/])
 + DroidDisintegrator: Intra-Application Information Flow Control in Android Apps, AsiaCCS 2016
 + Checking Intent-based Communication in Android with Intent Space Analysis, AsiaCCS 2016
 
@@ -154,6 +158,7 @@
 + A Machine-learning Approach for Classifying and Categorizing Android Sources and Sinks, NDSS 2014
 + Securing Android: A Survey, Taxonomy, and Challenges, CSUR 2015
 + Collaborative Security: A Survey and Taxonomy, CSUR 2015
++ PRADA: Prioritizing Android Devices for Apps by Mining Large-Scale Usage Data, ICSE 2016 (It finds the prioritized devices for apps)
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
@@ -176,6 +181,7 @@
 + Hare Hunting in the Wild Android: A Study on the Threat of Hanging Attribute References, CCS 2015 (tool: Harehunter, vul: hanging attribute references)
 + Android Root and its Providers: A Double-Edged Sword, CCS 2015
 + Life after App Unistallation: Are the Data Still Alive? Data Residue Attacks on Android, NDSS 2016
++ MobiPlay: A Remote Execution Based Record-and-Replay Tool for Mobile Applications, ICSE 2016
 + CDRep: Automatic Repair of Cryptographic-Misuses in Android Applications, AsiaCCS 2016
 
 ## Performance Analysis
@@ -202,6 +208,7 @@
 + Static Window Transition Graphs for Android, ASE 2015
 + GUITAR: Piecing Together Android App GUIs from Memory Images, CCS 2015
 + Static Analysis of GUI Behavior in Android Applications, Ph.D Dissetation 2015
++ Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
 + Attacks and Defence on Android Free Floating Windows, AsiaCCS 2016
 
 ## Forensic Analysis
