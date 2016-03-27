@@ -173,6 +173,7 @@
 + The Peril of Fragmentation: Security Hazards in Android Device Driver Customizations, S&P 2014
 + From Zygote to Morula: Fortifying Weakened ASLR on Android, S&P 2014
 + Peeking into Your App without Actually Seeing It: UI State Inference and Novel Android Attacks, USENIX Security 2014
++ Gyrophone: Recognizing Speech From Gyroscope Signals, USENIX Security 2014
 + Divide-and-Conquer: Why Android Malware cannot be Stopped, ARES 2014 (tool:Sand-Finger)
 + Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware, EuroSec 2014
 + You Shouldn't Collect My Secrets: Thwarting Sensitive Keystroke Leakage in Mobile IME Apps, USENIX Security 2015
