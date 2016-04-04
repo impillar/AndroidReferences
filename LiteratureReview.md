@@ -36,6 +36,7 @@
   + XManDroid: A New Android Evolution to Mitigate Privilege Escalation Attacks, Technical Report, 2011
   + DroidScope: Seamlessly Reconstructing the OS and Dalvik Semantic Views for Dynamic Android Malware Analysis, USENIX Security 2012
   + AndroTotal: A Flexible, Scalable Toolbox and Service for Testing Mobile Malware Detector, SPSM 2013
+  + PUMA: Programmable UI-automation for Large-scale Dynamic Analysis of Mobile Apps, MobiSys 2014 (tool: PUMA)
   + Checking Interation-Based Declassification Policies for Android Using Symbolic Execution, ESORICS 2015 (tool: ClickRelease)
   + CopperDroid: Automatic Reconstruction of Android Malware Behaviors, NDSS 2015
   + Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques, NDSS 2016
@@ -55,6 +56,7 @@
   + Semantics-Aware Android Malware Classification Using Weighted Contextual API Dependency Graphs, CCS 2014
   + Drebin: Effective and Explainable Detection of Android Malware in Your Pocket, NDSS 2014
   + AppContext: Differentiating Malicious and Benign Mobile App Behavior Under Contexts, ICSE 2014
+  + RiskMon: Continuous and Automated Risk Assessment of Mobile Applications, CODASPY 2014 (tool: RiskMon)
   + Machine Learning-Based Malware Detection for Android Applications: History Matters! Technical Report, 2014
   + Linear SVM-Based Android Malware Detection, Frontier and Innovation in Future Computing and Communications 2014
   + Mining Apps for Abnormal Usage of Sensitive Data, ICSE 2015
@@ -64,7 +66,6 @@
 + Fingerprint & matching
 
   + Get Off of My Market: Detecting Malcious Apps in Official and ALternative Android Markets, NDSS 2012 (tool: DroidRanger)
-  + NetworkProfiler: Towards Automatic Fingerprinting of Android Apps, INFOCOM 2013
   + DroidAnalytics: A Signature Based Analytic System to Collect, Extract, Analyze and Associate Android Malware, TRUSTCOM 2013
   + AppInk: Watermarking Android Apps for Repacking Deterrence, AsiaCCS 2013
 
@@ -83,6 +84,7 @@
   + On Lightweight Mobile Phone Application Certification, CCS 2009 (tool: Kirin)
   + "Andromaly": a Behavioral Malware Detection Framework for Android Devices, Journal of Intelligent Information Systems 2012
   + Efficient Runtime Monitoring with Metric Temporal Logic: A Case Study in the Android Operating System, FM 2013
+  + AppsPlayground: Automatic Security Analysis of Smartphone Applications, CODASPY 2013 (tool: AppsPlayground)
 
 + Testing
 
@@ -105,9 +107,19 @@
 + ViewDoird: Towards Obfuscation-Resilient Mobile Application Repackaging Detection, WiSec 2014
 + WuKong: A Scalable and Accurate Two-Phase Approach to Android App Clone Detection, ISSTA 2015
 
+## Network Traffic Analysis
++ NetworkProfiler: Towards Automatic Fingerprinting of Android Apps, INFOCOM 2013
++ AndroGenerator: An Automated and Configurable Android App Network Traffic Generation System, Security and Communication Networks 2015 (tool: AndroGenerator)
 
 ## Ads & Libraries Analysis
++ Unsafe Exposure Analysis of Mobile In-App Advertisements, WISEC 2012 (tool: AdRisk)
++ AdSplit: Separating Smartphone Advertising from Applications, USENIX Security 2012 (tool: AdSplit)
++ AdDroid: Privilege Separation for Applications and Advertisers in Android, AsiaCCS 2012 (tool: AdDroid)
++ DECAF: Detecting and Characterizing Ad Fraud in Mobile Apps, NSDI 2014 (tool: DECAF)
 + An Investigation into the Use of Common Libraries in Android Apps, arXir 2015
++ An Empirical Study of Mobile Ad Targeting, arXir 2015
++ MAdScope: Characterizing Mobile In-App Targeted Ads, MobiSys 2015 (tool: MAdScope)
++ Are these Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces, NDSS 2016
 + Free for All! Assessing User Data Exposure to Advertising Libraries on Android, NDSS 2016
 
 ## Inter-Component Communication Analysis
@@ -121,9 +133,14 @@
 + Enhancing Security of Linux-based Android Devices, 15th international linux system technology conference, 2008
 + Semantically Rich Application-CEntric Security in Android, ACSAC 2009 (tool: Saint)
 + YAASE: Yet Another Android Security Extension, IEEE International Conference on Privacy, Security, Risk and Trust, and IEEE International Conference on Social Computing 2011
++ MockDroid: Trading Privacy for Application Functionality on Smartphones, HotMobile 2011 (tool: MockDroid)
++ "These Aren't the Droids You're Looking For" Retrofitting Android to Protect Data from Imperious Applications, CCS 2011 (tool: AppFence)
 + Aurasium: Practical Policy Enforcement for Android Applications, USENIX Security 2012
++ RetroSkeleton: Retrofitting Android Apps, MobiSys 2013 (tool: RetroSkeleton)
++ Flexible and Fine-grained Mandatory Access Control on Android for Devices Security and Privacy Policies, USENIX Security 2013 (tool: FlaskDroid)
 + Security Enhanced (SE) Android: Bringing Flexible MAC to Android, NDSS 2013
 + ASM: A Programmable Interface for Extending Android Security, USENIX Security, 2014
++ A Bayesian Approach to Privacy Enforcement in Smartphones, USENIX Security 2014 (tool: BayesDroid)
 + Surveying the Development of Biometric User Authentication on Mobile Phones, IEEE Communications Surveys & Tutorials, 2015
 + DeepDroid: Dynamically Enforcing Enterprise Policy on Android Devices, NDSS 2015
 + Boxify: Full-fledged App Sandboxing for Stock Android, USENIX Security 2015
@@ -144,6 +161,7 @@
 ## Anti-Malware Tool Auditing
 + DroidChameleon: Evaluating Android Anti-malware Against Transformation Attacks, AsiaCCS 2013
 + ADAM: An Automatic and Extensible Platform to Stree Test Android Anti-virus Systems, DIMVA 2013
++ Enter Sandbox: Android Sandbox Comparison, IEEE Mobile Security Technologies (MoST) 2014
 + Catch Me If You Can: Evaluating Android Anti-Malware Against Transformation Attacks, IEEE TIFS 2014
 + Towards Discovering and Understanding Unexpected Hazards in Tailoring Antivirus Software for Android, AsiaCCS 2015
 + Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016
@@ -176,6 +194,7 @@
 + Gyrophone: Recognizing Speech From Gyroscope Signals, USENIX Security 2014
 + Divide-and-Conquer: Why Android Malware cannot be Stopped, ARES 2014 (tool:Sand-Finger)
 + Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware, EuroSec 2014
++ Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
 + You Shouldn't Collect My Secrets: Thwarting Sensitive Keystroke Leakage in Mobile IME Apps, USENIX Security 2015
 + COVERT: Compositional Analysis of Android Inter-App Permission Leakage, TSE 2015
 + From System Services Freezing to System Server Shutdown in Android: All You Need is a Loop in an App, CCS 2015 (tool: ASV-Hunter, vul:Android Stroke Vulnerabilies)
@@ -204,7 +223,8 @@
 + Automating GUI Testing for Android Applications, AST 2011
 + SmartDroid: An Automatic System for Revealing UI-based Trigger Conditions in Android Applications, SPSM 2012
 + Finding Errors in Multi-threaded GUI Applications, ISSTA 2012
-+ A Grey-Box Approach for Automated GUI-model Generation of Mobile Applications, FASE 2013
++ A Grey-Box Approach for Automated GUI-model Generation of Mobile Applications, FASE 2013  
++ Guided GUI Testing of Android Apps with Minimal Restart and Approximate learning, OOPSLA 2013 (tool: Swift-Hand)
 + Static Reference Analysis for GUI Objects in Android Software, CGO 2014
 + Static Window Transition Graphs for Android, ASE 2015
 + GUITAR: Piecing Together Android App GUIs from Memory Images, CCS 2015
