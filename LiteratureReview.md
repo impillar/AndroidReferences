@@ -110,6 +110,7 @@
 ## Network Traffic Analysis
 + NetworkProfiler: Towards Automatic Fingerprinting of Android Apps, INFOCOM 2013
 + AndroGenerator: An Automated and Configurable Android App Network Traffic Generation System, Security and Communication Networks 2015 (tool: AndroGenerator)
++ I Know What You Did on Your Smartphone: Inferring App Usage Over Encrypted Data Traffic, CNS 2015
 
 ## Ads & Libraries Analysis
 + Unsafe Exposure Analysis of Mobile In-App Advertisements, WISEC 2012 (tool: AdRisk)
@@ -237,3 +238,4 @@
 + WHYPER: Towards Automating Risk Assessment of Mobile Applications, USENIX Security 
 + VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images, CCS 2015
 + Towards Automatic Generation of Security-Centric Descriptions for Android Apps, CCS 2015 (tool: DESCRIBEME)
++ AUTOREB: Automatically Understanding the Review-to-Behavior Fidelity in Android Applications, CCS 2015 (tool: AUTOREB)
