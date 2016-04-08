@@ -129,7 +129,6 @@
 + Combining Static Analysis with Probabilistic Models to Enable Market-Scale Android Inter-component Analysis, POPL 2016 (tool: PRIMO [http://siis.cse.psu.edu/primo/])
 + DroidDisintegrator: Intra-Application Information Flow Control in Android Apps, AsiaCCS 2016
 + Checking Intent-based Communication in Android with Intent Space Analysis, AsiaCCS 2016
-+ Combining Static Analysis with Probabilistic Models to Enable Market-Scale Analysis, POPL 2016
 
 ## Android OS Enhancement
 + Enhancing Security of Linux-based Android Devices, 15th international linux system technology conference, 2008
