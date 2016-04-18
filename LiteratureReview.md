@@ -28,6 +28,8 @@
   + HornDroid: Practical and Sound Static Analysis of Android Applications by SMT Solving, Euro S&P 2016
   + StubDroid: Automatic Inference of Precise Data-flow Summaries for the Android Framework, ICSE 2016
   + Toward a Framework for Detecting Privacy Policy Violation in Android Application Code, ICSE 2016
+  + Semantic Modelling of Android Malware for Effective Malware Comprehension, Detection and Classification, ISSTA 2016 (tool: SMART)
+  + DroidRA: Taming Reflection to Support Whole-Program Analysis of Android Apps, ISSTA 2016 (tool: DroidRA)
  
 + Dynamic Analysis
 
@@ -93,6 +95,7 @@
   + Systematic Testing for Resource Leaks in Android Applications, ISSRE 2013
   + Systematic Execution of Android Test Suites in Adverse Conditions, ISSTA 2015
   + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
+  + Sapienz: Multi-objective Automated Testing for Android Applications, ISSTA 2016 (tool: Sapienz)
 
 ## Native Code Analysis
 + Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy, NDSS 2016
@@ -219,6 +222,8 @@
 + Runtime Verification of Expected Energy Consumption in Smartphones, Model Checking Software 2015
 + How Developers Detect and Fix Performance Bottlenecks in Android Apps, ICSME 2015
 + PersisDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions, arXiv 2015
++ Energy-Aware Test-Suite Minimization for Android Apps, ISSTA 2016
++ Automatically Verifying and Reproducing Event-based Races in Android Apps, ISSTA 2016
 
 ## Android GUI Analysis
 + Automating GUI Testing for Android Applications, AST 2011
