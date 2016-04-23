@@ -13,6 +13,7 @@
   + Structural Detection of Android Malware Using Embedded Call Graphs, AISec 2013 (tool: Adagio)
   + Targeted and Depth-first Exploration for Systematic Testing of Android Apps, OOPSLA 2013 (tool: A3E)
   + Detecting Passive Content Leaks and Pollution in Android Applications, NDSS 2013
+  + Slicing Droids: Program Slicing for Smali Code, SAC 2013 (tool: SAAF)
   + Sound and Precise Malware Analysis for Android via Pushdown Reachability and Entry-Point Saturation, SPSM 2013 (tool: Anadroid)
   + FlowDroid: Precise Context, Flow, Field, Object-sensitive and Lifecycle-aware Taint Analysis for Android Apps, PLDI 2014
   + Appocopy: Semantics-based Detection of Android Malware Through Static Analysis, FSE 2014
@@ -25,6 +26,8 @@
   + EdgeMiner: Automatically Detecting Implicit Control Flow Transitions through the Android Framework, NDSS 2015
   + IccTA: Detecting Inter-Component Privacy Leaks in Android Apps, ICSE 2015
   + Static Control-Flow Analysis of User-Driven Callbacks in Android Applications, ICSE 2015
+  + DroidJust: Automated Functionality-Aware Privacy Leakage Analysis for Android Applications, WiSec 2015 (tool: DroidJust)
+  + Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques, NDSS 2016 (tool: HARVESTER)
   + HornDroid: Practical and Sound Static Analysis of Android Applications by SMT Solving, Euro S&P 2016
   + StubDroid: Automatic Inference of Precise Data-flow Summaries for the Android Framework, ICSE 2016
   + Toward a Framework for Detecting Privacy Policy Violation in Android Application Code, ICSE 2016
@@ -41,7 +44,7 @@
   + PUMA: Programmable UI-automation for Large-scale Dynamic Analysis of Mobile Apps, MobiSys 2014 (tool: PUMA)
   + Checking Interation-Based Declassification Policies for Android Using Symbolic Execution, ESORICS 2015 (tool: ClickRelease)
   + CopperDroid: Automatic Reconstruction of Android Malware Behaviors, NDSS 2015
-  + Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques, NDSS 2016
+  + Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques, NDSS 2016 (tool: HARVESTER)
   + IntelliDroid: A Targeted Input Generator for the Dynamic Analysis of Android Malware, NDSS 2016
 
 + Machine Learning
