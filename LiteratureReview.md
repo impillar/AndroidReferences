@@ -247,3 +247,6 @@
 + VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images, CCS 2015
 + Towards Automatic Generation of Security-Centric Descriptions for Android Apps, CCS 2015 (tool: DESCRIBEME)
 + AUTOREB: Automatically Understanding the Review-to-Behavior Fidelity in Android Applications, CCS 2015 (tool: AUTOREB)
+
+## Obfuscation & Evasion Techniques
+ + Stealth attacks: An extended insight into the obfuscation effects on Android malware, Computer & Science 2015
