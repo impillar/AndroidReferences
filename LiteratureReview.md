@@ -152,6 +152,8 @@
 + DeepDroid: Dynamically Enforcing Enterprise Policy on Android Devices, NDSS 2015
 + Boxify: Full-fledged App Sandboxing for Stock Android, USENIX Security 2015
 + FLEXDROID: Enforcing In-App Privilege Separation in Android, NDSS 2016
++ Reference Hijacking: Patching, Protecting and Analyzing on Unmodified and Non-Rooted Android Devices, ICSE 2016 (prototype: PatchMan, ControlMan and TaintMan)
++ Automated Partitioning of Android Applications for Trusted Execution Environments, ICSE 2016
 + FLEX: A Flexible Code Authentication Framework for Delegating Mobile App Customization, AsiaCCS 2016
 
 ## Android Permission System
