@@ -31,6 +31,7 @@
   + HornDroid: Practical and Sound Static Analysis of Android Applications by SMT Solving, Euro S&P 2016
   + StubDroid: Automatic Inference of Precise Data-flow Summaries for the Android Framework, ICSE 2016
   + Toward a Framework for Detecting Privacy Policy Violation in Android Application Code, ICSE 2016
+  + R-Droid: Leveraging Android App Analysis with Static Slice Optimization, AsiaCCS 2016 (tool: R-Droid)
   + Semantic Modelling of Android Malware for Effective Malware Comprehension, Detection and Classification, ISSTA 2016 (tool: SMART)
   + DroidRA: Taming Reflection to Support Whole-Program Analysis of Android Apps, ISSTA 2016 (tool: DroidRA)
  
@@ -132,6 +133,7 @@
 ## Inter-Component Communication Analysis
 + Analyzing Inter-Application Communication in Android, MobiSys 2011 (tool: ComDroid)
 + Effective Inter-Component Communication Mapping in Android with Epicc: An Essential Step Towards Holistic Security Analysis, USENIX Security 2013
++ Scippa: System-Centric IPC Provenance on Android, ACSAC 2014 (tool: Scippa)
 + Combining Static Analysis with Probabilistic Models to Enable Market-Scale Android Inter-component Analysis, POPL 2016 (tool: PRIMO [http://siis.cse.psu.edu/primo/])
 + DroidDisintegrator: Intra-Application Information Flow Control in Android Apps, AsiaCCS 2016
 + Checking Intent-based Communication in Android with Intent Space Analysis, AsiaCCS 2016
@@ -146,6 +148,7 @@
 + RetroSkeleton: Retrofitting Android Apps, MobiSys 2013 (tool: RetroSkeleton)
 + Flexible and Fine-grained Mandatory Access Control on Android for Devices Security and Privacy Policies, USENIX Security 2013 (tool: FlaskDroid)
 + Security Enhanced (SE) Android: Bringing Flexible MAC to Android, NDSS 2013
++ Android Security Framework: Extensible Multi-Layered Access Control on Android, ACSAC 2014 (framework: ASF)
 + ASM: A Programmable Interface for Extending Android Security, USENIX Security, 2014
 + A Bayesian Approach to Privacy Enforcement in Smartphones, USENIX Security 2014 (tool: BayesDroid)
 + Surveying the Development of Biometric User Authentication on Mobile Phones, IEEE Communications Surveys & Tutorials, 2015
@@ -186,6 +189,8 @@
 + Securing Android: A Survey, Taxonomy, and Challenges, CSUR 2015
 + Collaborative Security: A Survey and Taxonomy, CSUR 2015
 + PRADA: Prioritizing Android Devices for Apps by Mining Large-Scale Usage Data, ICSE 2016 (It finds the prioritized devices for apps)
++ SoK: Lessons Learned From Android Security Research For Appified Software Platforms, IEEE S&P 2016 (framework: SoK)
+
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
