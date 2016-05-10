@@ -182,9 +182,11 @@
 + Understanding Android Security, S&P 2009
 + Language-Based Security on Android, PLAS 2009
 + A Study of Android Application Security, USENIX Security 2011
++ All Your Droid Are Belong To Us: A Survey of Current Android Attacks, USENIX WOOT 2011
 + ProfileDroid: Multi-layer Profiling of Android Applications, MobiCom 2012
 + Dissecting Android Malware: Characterization and Evoluation, S&P 2012
 + AndroSAT: Security Analysis Tool for Android Application, 8th International Conference on Emerging Security Information, System and Technologies, 2014
++ A Taxonomy of Privilege Escalation Attacks in Android Applications, International Journal of Security and Networks 2014
 + A Machine-learning Approach for Classifying and Categorizing Android Sources and Sinks, NDSS 2014
 + Securing Android: A Survey, Taxonomy, and Challenges, CSUR 2015
 + Collaborative Security: A Survey and Taxonomy, CSUR 2015
