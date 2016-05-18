@@ -94,9 +94,11 @@
 
 + Testing
 
+  + A GUI Crawling-based technique for Android Mobile Application Testing, ICSTW 2011
   + Using GUI Ripping for Automated Testing of Android Applications, ASE 2012 (tool: AndroidRipper)
   + Testing Android Apps Through Symbolic Execution, ACM SIGSOFT Software Engineering Notes 2012
   + Systematic Testing for Resource Leaks in Android Applications, ISSRE 2013
+  + Dynodroid: An Input Generation System for Android Apps, ESEC/FSE 2013 (tool: Dynodroid)
   + Systematic Execution of Android Test Suites in Adverse Conditions, ISSTA 2015
   + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
   + Sapienz: Multi-objective Automated Testing for Android Applications, ISSTA 2016 (tool: Sapienz)
@@ -133,6 +135,7 @@
 ## Inter-Component Communication Analysis
 + Analyzing Inter-Application Communication in Android, MobiSys 2011 (tool: ComDroid)
 + Effective Inter-Component Communication Mapping in Android with Epicc: An Essential Step Towards Holistic Security Analysis, USENIX Security 2013
++ An Empirical Study of the Robustness of Intercomponent Commmunication in Android, DSN 2012
 + Scippa: System-Centric IPC Provenance on Android, ACSAC 2014 (tool: Scippa)
 + Combining Static Analysis with Probabilistic Models to Enable Market-Scale Android Inter-component Analysis, POPL 2016 (tool: PRIMO [http://siis.cse.psu.edu/primo/])
 + DroidDisintegrator: Intra-Application Information Flow Control in Android Apps, AsiaCCS 2016
@@ -141,6 +144,7 @@
 ## Android OS Enhancement
 + Enhancing Security of Linux-based Android Devices, 15th international linux system technology conference, 2008
 + Semantically Rich Application-CEntric Security in Android, ACSAC 2009 (tool: Saint)
++ Apex: Extending Android Permission Model and Enforcement with User-defined Runtime Constraints, AsiaCCS 2011 (tool: Apex)
 + YAASE: Yet Another Android Security Extension, IEEE International Conference on Privacy, Security, Risk and Trust, and IEEE International Conference on Social Computing 2011
 + MockDroid: Trading Privacy for Application Functionality on Smartphones, HotMobile 2011 (tool: MockDroid)
 + "These Aren't the Droids You're Looking For" Retrofitting Android to Protect Data from Imperious Applications, CCS 2011 (tool: AppFence)
@@ -185,6 +189,7 @@
 + All Your Droid Are Belong To Us: A Survey of Current Android Attacks, USENIX WOOT 2011
 + ProfileDroid: Multi-layer Profiling of Android Applications, MobiCom 2012
 + Dissecting Android Malware: Characterization and Evoluation, S&P 2012
++ An Empirical Study of API Stability and Adoption in the Android Ecosystem, ICSM 2013
 + AndroSAT: Security Analysis Tool for Android Application, 8th International Conference on Emerging Security Information, System and Technologies, 2014
 + A Taxonomy of Privilege Escalation Attacks in Android Applications, International Journal of Security and Networks 2014
 + A Machine-learning Approach for Classifying and Categorizing Android Sources and Sinks, NDSS 2014
@@ -201,6 +206,7 @@
 ## New vulnerabilities & Attacks
 + Fuzzing the Phone in Your Phone, Black Hat USA 2009
 + Privilege Escalation Attacks on Android, Information Security 2010
++ Application Collusion Attack on the Permission-based Security Model and its Implications for Modern Smartphone Systems, REPORT 2011
 + A Stealthy and Context-Aware Sound Trojan for Smartphones, NDSS 2011
 + New Privacy Issues in Mobile Telephony: Fix and Verification, CCS 2012
 + Upgrading Your Android, Elevating My Malware: Priviledge Escalation Through Mobile OS Updating, S&P 2014
@@ -260,3 +266,9 @@
 
 ## Obfuscation & Evasion Techniques
  + Stealth Attacks: An Extended Insight into the Obfuscation Effects on Android Malware, Computer & Science 2015
+
+## Fuzzing Test for Vulnerabilities
+ + Droidfuzzer: Fuzzing the Android Apps with Intent-filter Tag, MoMM 2013 (tool: Droidfuzzer)
+ + Intent Fuzzer: Crafting Intents of Death, WODA 2014
+ + Fuzzing Android System Services by Binder Call. (url: https://www.blackhat.com/docs/us-15/materials/us-15-Gong-Fuzzing-Android-System-Services-By-BinderCall-To-Escalate-Privilege.pdf.)
+ + 
