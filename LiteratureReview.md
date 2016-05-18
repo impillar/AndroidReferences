@@ -271,4 +271,4 @@
  + Droidfuzzer: Fuzzing the Android Apps with Intent-filter Tag, MoMM 2013 (tool: Droidfuzzer)
  + Intent Fuzzer: Crafting Intents of Death, WODA 2014
  + Fuzzing Android System Services by Binder Call. (url: https://www.blackhat.com/docs/us-15/materials/us-15-Gong-Fuzzing-Android-System-Services-By-BinderCall-To-Escalate-Privilege.pdf.)
- + 
+ + BinderCracker: Assessing the Robustness of Android System Services, arxiv 2016 (tool: BinderCracker)
