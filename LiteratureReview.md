@@ -272,3 +272,10 @@
  + Intent Fuzzer: Crafting Intents of Death, WODA 2014
  + Fuzzing Android System Services by Binder Call. (url: https://www.blackhat.com/docs/us-15/materials/us-15-Gong-Fuzzing-Android-System-Services-By-BinderCall-To-Escalate-Privilege.pdf.)
  + BinderCracker: Assessing the Robustness of Android System Services, arxiv 2016 (tool: BinderCracker)
+
+## Analysis of Hybrid Android App
+ + Breaking and Fixing Origin-Based Access Control in Hybrid Web/Mobile Application Frameworks, NDSS 2014 (tool: NOFRAK)
+ + Code Injection Attacks on HTML5-based Mobile Apps: Characterization, Detection and Mitigation, CCS 2014
+ + Reducing Attack Surface on Cordova-based Hybrid Mobile Apps, MobileDeli 2014
+ + Attack and Countermeasures for Webview on Mobile System, Dissertations 2014
+ + On the Static Analysis of Hybrid Mobile Apps, A Report on the State of Apache Cordova Nation, ESSoS 2016
