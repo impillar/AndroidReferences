@@ -130,7 +130,7 @@
 + An Empirical Study of Mobile Ad Targeting, arXir 2015
 + MAdScope: Characterizing Mobile In-App Targeted Ads, MobiSys 2015 (tool: MAdScope)
 + Are these Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces, NDSS 2016
-+ Free for All! Assessing User Data Exposure to Advertising Libraries on Android, NDSS 2016
++ Free for All! Assessing User Data Exposure to Advertising Libraries on Android, NDSS 2016 (tool: Pluto)
 
 ## Inter-Component Communication Analysis
 + Analyzing Inter-Application Communication in Android, MobiSys 2011 (tool: ComDroid)
