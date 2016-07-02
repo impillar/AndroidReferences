@@ -193,6 +193,7 @@
 + AndroSAT: Security Analysis Tool for Android Application, 8th International Conference on Emerging Security Information, System and Technologies, 2014
 + A Taxonomy of Privilege Escalation Attacks in Android Applications, International Journal of Security and Networks 2014
 + A Machine-learning Approach for Classifying and Categorizing Android Sources and Sinks, NDSS 2014
++ Andrubis -- 1,000,000 Apps Later: A View on Current Android Malware Behaviors, BADGERS 2014 (tool: Andrubis)
 + Securing Android: A Survey, Taxonomy, and Challenges, CSUR 2015
 + Collaborative Security: A Survey and Taxonomy, CSUR 2015
 + PRADA: Prioritizing Android Devices for Apps by Mining Large-Scale Usage Data, ICSE 2016 (It finds the prioritized devices for apps)
