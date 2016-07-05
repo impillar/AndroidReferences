@@ -280,3 +280,4 @@
  + Reducing Attack Surface on Cordova-based Hybrid Mobile Apps, MobileDeli 2014
  + Attack and Countermeasures for Webview on Mobile System, Dissertations 2014
  + On the Static Analysis of Hybrid Mobile Apps, A Report on the State of Apache Cordova Nation, ESSoS 2016
+ + Automatic Permission Inference for Hybrid Mobile Apps, Journal of High Speed Networks 2016
