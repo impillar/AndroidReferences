@@ -218,6 +218,7 @@
 + Divide-and-Conquer: Why Android Malware cannot be Stopped, ARES 2014 (tool:Sand-Finger)
 + Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware, EuroSec 2014
 + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
++ Supor: Precise and Scalable Sensitive User Input Detection for Android Apps, USENIX 2014 (tool: Supor)
 + You Shouldn't Collect My Secrets: Thwarting Sensitive Keystroke Leakage in Mobile IME Apps, USENIX Security 2015
 + COVERT: Compositional Analysis of Android Inter-App Permission Leakage, TSE 2015
 + From System Services Freezing to System Server Shutdown in Android: All You Need is a Loop in an App, CCS 2015 (tool: ASV-Hunter, vul:Android Stroke Vulnerabilies)
