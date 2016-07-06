@@ -44,6 +44,7 @@
   + AndroTotal: A Flexible, Scalable Toolbox and Service for Testing Mobile Malware Detector, SPSM 2013
   + PUMA: Programmable UI-automation for Large-scale Dynamic Analysis of Mobile Apps, MobiSys 2014 (tool: PUMA)
   + Checking Interation-Based Declassification Policies for Android Using Symbolic Execution, ESORICS 2015 (tool: ClickRelease)
+  + BareDroid: Large-Scale Analysis of Android Apps on Real Devices, ACSAC 2015 (tool: BareDroid)
   + CopperDroid: Automatic Reconstruction of Android Malware Behaviors, NDSS 2015
   + Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques, NDSS 2016 (tool: HARVESTER)
   + IntelliDroid: A Targeted Input Generator for the Dynamic Analysis of Android Malware, NDSS 2016
@@ -99,6 +100,7 @@
   + Testing Android Apps Through Symbolic Execution, ACM SIGSOFT Software Engineering Notes 2012
   + Systematic Testing for Resource Leaks in Android Applications, ISSRE 2013
   + Dynodroid: An Input Generation System for Android Apps, ESEC/FSE 2013 (tool: Dynodroid)
+  + Automated Test Input Generation for Android: Are We There Yet? ASE 2015
   + Systematic Execution of Android Test Suites in Adverse Conditions, ISSTA 2015
   + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
   + Sapienz: Multi-objective Automated Testing for Android Applications, ISSTA 2016 (tool: Sapienz)
@@ -269,6 +271,8 @@
 + AUTOREB: Automatically Understanding the Review-to-Behavior Fidelity in Android Applications, CCS 2015 (tool: AUTOREB)
 
 ## Obfuscation & Evasion Techniques
+ + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
+ + Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware, EuroSec 2014
  + Stealth Attacks: An Extended Insight into the Obfuscation Effects on Android Malware, Computer & Science 2015
 
 ## Fuzzing Test for Vulnerabilities
