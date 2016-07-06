@@ -171,6 +171,7 @@
 + Permission Re-Delegation: Attacks and Defenses, USENIX Security 2011
 + Curbing Android Permission Creep, W2SP 2011
 + Android Permissions Demystified, CCS 2011
++ Is this App Safe? A Large Scale Study on Application Permissions and Risk Signals, WWW 2012
 + Android Security Permissions - Can we trust them? S&P 2012
 + PScout: Analyzing the Android Permission Specification, CCS 2012
 + Permission based Android security: Issues and Countermeasures, Computers&Security 2014
