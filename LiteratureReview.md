@@ -21,7 +21,7 @@
   + AppContext: Differentiating Malicious and Benign Mobile App Behavior Under Contexts, ICSE 2014
   + AsDroid: Detecting Stealthy Behaviors in Android Applications by User Interface and Program Behavior Constradiction, ICSE 2014
   + Android Taint Flow Analysis for App Sets, SOAP 2014
-  + Finding Unknown Malice in 10 Seconds: Mass Vetting for New Threats at the Google-Play Scale, USENIX Security 2015
+  + Finding Unknown Malice in 10 Seconds: Mass Vetting for New Threats at the Google-Play Scale, USENIX Security 2015 (tool: MassVet)
   + Information Flow Analysis of Android Applications in DroidSafe, NDSS 2015
   + EdgeMiner: Automatically Detecting Implicit Control Flow Transitions through the Android Framework, NDSS 2015
   + IccTA: Detecting Inter-Component Privacy Leaks in Android Apps, ICSE 2015
