@@ -158,6 +158,7 @@
 + Surveying the Development of Biometric User Authentication on Mobile Phones, IEEE Communications Surveys & Tutorials, 2015
 + DeepDroid: Dynamically Enforcing Enterprise Policy on Android Devices, NDSS 2015
 + Boxify: Full-fledged App Sandboxing for Stock Android, USENIX Security 2015
++ EASEAndroid: Automatic Policy Analysis and Refinement for Security Enhanced Android via Large-Scale Semi-Supervised Learning, USENIX 2015
 + FLEXDROID: Enforcing In-App Privilege Separation in Android, NDSS 2016
 + Reference Hijacking: Patching, Protecting and Analyzing on Unmodified and Non-Rooted Android Devices, ICSE 2016 (prototype: PatchMan, ControlMan and TaintMan)
 + Automated Partitioning of Android Applications for Trusted Execution Environments, ICSE 2016
@@ -171,6 +172,7 @@
 + Android Security Permissions - Can we trust them? S&P 2012
 + PScout: Analyzing the Android Permission Specification, CCS 2012
 + Permission based Android security: Issues and Countermeasures, Computers&Security 2014
++ Exploring Permission-Induced Risk in Android Applications for Malicious Application Detection, TIFS 2014
 + Android Permission Remystified: A Field Study on Contextual Integrity, USENIX Security 2015
 + revDroid: Code Analysis of the Side Effects after Dynamic Permission Revocation of Android Apps, AsiaCCS 2016
 
