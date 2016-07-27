@@ -179,6 +179,7 @@
 + Exploring Permission-Induced Risk in Android Applications for Malicious Application Detection, TIFS 2014
 + Android Permission Remystified: A Field Study on Contextual Integrity, USENIX Security 2015
 + revDroid: Code Analysis of the Side Effects after Dynamic Permission Revocation of Android Apps, AsiaCCS 2016
++ Small Changes, Big Changes: An Updated View on the Android Permission System, RAID 2016
 
 ## Anti-Malware Tool Auditing
 + DroidChameleon: Evaluating Android Anti-malware Against Transformation Attacks, AsiaCCS 2013
