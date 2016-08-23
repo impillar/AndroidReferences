@@ -48,9 +48,9 @@
   + CopperDroid: Automatic Reconstruction of Android Malware Behaviors, NDSS 2015
   + Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques, NDSS 2016 (tool: HARVESTER)
   + IntelliDroid: A Targeted Input Generator for the Dynamic Analysis of Android Malware, NDSS 2016
+  + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (tool: DroidScribe)
 
 + Machine Learning
-  + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (IEEE S&P Workshop)
   + Crowdroid: Behavior-based Malware Detection System for Android, SPSM 2011
   + "Andromaly": a Behavioral Malware Detection Framework for Android Devices, Journal of Intelligent Information Systems 2012
   + A Machine Learning Approach to Android Malware Detection, EISIC 2012
@@ -70,6 +70,7 @@
   + Mining Apps for Abnormal Usage of Sensitive Data, ICSE 2015
   + Obfuscation-Resilient, Efficient, and Accurate Detection and Family Identification of Android Malware, Technical Report, 2015 (tool: RevealDroid)
   + StormDroid: A Streaminglized Machine Learning-based System for Detecting Android Malware, AsiaCCS 2016
+  + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (tool: DroidScribe)
 
 + Fingerprint & matching
 
