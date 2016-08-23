@@ -50,6 +50,7 @@
   + IntelliDroid: A Targeted Input Generator for the Dynamic Analysis of Android Malware, NDSS 2016
 
 + Machine Learning
+  + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (IEEE S&P Workshop)
   + Crowdroid: Behavior-based Malware Detection System for Android, SPSM 2011
   + "Andromaly": a Behavioral Malware Detection Framework for Android Devices, Journal of Intelligent Information Systems 2012
   + A Machine Learning Approach to Android Malware Detection, EISIC 2012
