@@ -199,6 +199,7 @@
 + ProfileDroid: Multi-layer Profiling of Android Applications, MobiCom 2012
 + Dissecting Android Malware: Characterization and Evoluation, S&P 2012
 + An Empirical Study of API Stability and Adoption in the Android Ecosystem, ICSM 2013
++ The Impact of Vendor Customizations on Android Security, CCS 2013
 + AndroSAT: Security Analysis Tool for Android Application, 8th International Conference on Emerging Security Information, System and Technologies, 2014
 + A Taxonomy of Privilege Escalation Attacks in Android Applications, International Journal of Security and Networks 2014
 + A Machine-learning Approach for Classifying and Categorizing Android Sources and Sinks, NDSS 2014
@@ -298,5 +299,6 @@
  + HybriDroid: Static Analysis Framework for Android Hybrid Applications, ASE 2016
 
 ## Android Compatibility Issues
+ + Understanding Android Fragmentation with Topic Analysis of Vendor-Specific Bugs, WCRE 2012
  + Taming Android Fragmentation: Characterizing and Detecting Compatibility Issues for Android Apps, ASE 2016 (tool: FicFinder)
 
