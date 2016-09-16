@@ -268,6 +268,7 @@
 + Static Analysis of GUI Behavior in Android Applications, Ph.D Dissetation 2015
 + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
 + Attacks and Defence on Android Free Floating Windows, AsiaCCS 2016
++ Automated Model-Based Android GUI Testing using Multi-level GUI Comparison Criteria, ASE 2016
 
 ## Forensic Analysis
 + Checking App Behavior Against App Descriptions, ICSE 2014 (tool: CHABADA)
@@ -294,3 +295,8 @@
  + Attack and Countermeasures for Webview on Mobile System, Dissertations 2014
  + On the Static Analysis of Hybrid Mobile Apps, A Report on the State of Apache Cordova Nation, ESSoS 2016
  + Automatic Permission Inference for Hybrid Mobile Apps, Journal of High Speed Networks 2016
+ + HybriDroid: Static Analysis Framework for Android Hybrid Applications, ASE 2016
+
+## Android Compatibility Issues
+ + Taming Android Fragmentation: Characterizing and Detecting Compatibility Issues for Android Apps, ASE 2016 (tool: FicFinder)
+
