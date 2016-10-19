@@ -34,6 +34,7 @@
   + R-Droid: Leveraging Android App Analysis with Static Slice Optimization, AsiaCCS 2016 (tool: R-Droid)
   + Semantic Modelling of Android Malware for Effective Malware Comprehension, Detection and Classification, ISSTA 2016 (tool: SMART)
   + DroidRA: Taming Reflection to Support Whole-Program Analysis of Android Apps, ISSTA 2016 (tool: DroidRA)
+  + TaintART: A Practical Multi-level Information-Flow Tracking System for Android RunTime, CCS 2016 (tool: TaintART)
  
 + Dynamic Analysis
 
@@ -136,6 +137,7 @@
 + Are these Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces, NDSS 2016
 + Free for All! Assessing User Data Exposure to Advertising Libraries on Android, NDSS 2016 (tool: Pluto)
 + Following Devil’s Footprints: Cross-Platform Analysis of Potentially Harmful Libraries on Android and iOS, S&P 2016 (tool: PhaLib)
++ Reliable Third-Party Library Detection in Android and its Security Applications, CCS 2016
 
 ## Inter-Component Communication Analysis
 + Analyzing Inter-Application Communication in Android, MobiSys 2011 (tool: ComDroid)
@@ -239,6 +241,9 @@
 + Kratos: Discovering Inconsistent Security Policy Enforcement in the Android Framework, NDSS 2016 (tool: Kratos)
 + MobiPlay: A Remote Execution Based Record-and-Replay Tool for Mobile Applications, ICSE 2016
 + CDRep: Automatic Repair of Cryptographic-Misuses in Android Applications, AsiaCCS 2016
++ Call Me Back! Attacks on System Server and System Apps in Android through Synchronous Callback, CCS 2016
++ Android ION Hazard: the Curse of Customizable Memory Management System, CCS 2016
++ The Misuse of Android Unix Domain Sockets and Security Implications, CCS 2016
 
 ## Performance Analysis
 + Bootstrapping Energy Debugging on Smartphones: A First Look at Energy Bugs in Mobile Devices, HotNets-X 2011
@@ -282,6 +287,7 @@
  + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
  + Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware, EuroSec 2014
  + Stealth Attacks: An Extended Insight into the Obfuscation Effects on Android Malware, Computer & Science 2015
+ + Statistical Deobfuscation of Android Applications, CCS 2016
 
 ## Fuzzing Test for Vulnerabilities
  + Droidfuzzer: Fuzzing the Android Apps with Intent-filter Tag, MoMM 2013 (tool: Droidfuzzer)
@@ -297,7 +303,8 @@
  + On the Static Analysis of Hybrid Mobile Apps, A Report on the State of Apache Cordova Nation, ESSoS 2016
  + Automatic Permission Inference for Hybrid Mobile Apps, Journal of High Speed Networks 2016
  + HybriDroid: Static Analysis Framework for Android Hybrid Applications, ASE 2016
-
+ + Fine-Grained Access Control for HTML5-Based Mobile Applications in Android, CCS 2016
+ + Draco: A System for Uniform and Fine-grained Access Control for Web Code on Android, CCS 2016 (tool: Draco)
 ## Android Compatibility Issues
  + Understanding Android Fragmentation with Topic Analysis of Vendor-Specific Bugs, WCRE 2012
  + Taming Android Fragmentation: Characterizing and Detecting Compatibility Issues for Android Apps, ASE 2016 (tool: FicFinder)
