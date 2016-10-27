@@ -27,6 +27,7 @@
   + IccTA: Detecting Inter-Component Privacy Leaks in Android Apps, ICSE 2015
   + Static Control-Flow Analysis of User-Driven Callbacks in Android Applications, ICSE 2015
   + DroidJust: Automated Functionality-Aware Privacy Leakage Analysis for Android Applications, WiSec 2015 (tool: DroidJust)
+2016  
   + Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques, NDSS 2016 (tool: HARVESTER)
   + HornDroid: Practical and Sound Static Analysis of Android Applications by SMT Solving, Euro S&P 2016
   + StubDroid: Automatic Inference of Precise Data-flow Summaries for the Android Framework, ICSE 2016
@@ -36,6 +37,7 @@
   + DroidRA: Taming Reflection to Support Whole-Program Analysis of Android Apps, ISSTA 2016 (tool: DroidRA)
   + TaintART: A Practical Multi-level Information-Flow Tracking System for Android RunTime, CCS 2016 (tool: TaintART)
   + Software Architectural Principles in Contemporary Mobile Software: from Conception to Practice, Journal of Systems and Software, 2016
+  + Reliable Third-Party Library Detection in Android and its Security Applications, CCS 2016
  
 + Dynamic Analysis
 
@@ -72,8 +74,11 @@
   + Mining Apps for Abnormal Usage of Sensitive Data, ICSE 2015
   + Obfuscation-Resilient, Efficient, and Accurate Detection and Family Identification of Android Malware, Technical Report, 2015 (tool: RevealDroid)
   + Heldroid: Fast and Efficient Linguistic-Based Ransomware Detection, UIC Master Disseration, 2015 (tool: Heldroid)
+2016
   + StormDroid: A Streaminglized Machine Learning-based System for Detecting Android Malware, AsiaCCS 2016
   + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (tool: DroidScribe)
+  + Analysis of Code Heterogeneity for High-Precision Classification of Repackaged Malware, MoST 2016 (tool: DR-Droid)
+  
 
 + Fingerprint & matching
 
