@@ -35,6 +35,7 @@
   + Semantic Modelling of Android Malware for Effective Malware Comprehension, Detection and Classification, ISSTA 2016 (tool: SMART)
   + DroidRA: Taming Reflection to Support Whole-Program Analysis of Android Apps, ISSTA 2016 (tool: DroidRA)
   + TaintART: A Practical Multi-level Information-Flow Tracking System for Android RunTime, CCS 2016 (tool: TaintART)
+  + Software Architectural Principles in Contemporary Mobile Software: from Conception to Practice, Journal of Systems and Software, 2016
  
 + Dynamic Analysis
 
@@ -70,6 +71,7 @@
   + Linear SVM-Based Android Malware Detection, Frontier and Innovation in Future Computing and Communications 2014
   + Mining Apps for Abnormal Usage of Sensitive Data, ICSE 2015
   + Obfuscation-Resilient, Efficient, and Accurate Detection and Family Identification of Android Malware, Technical Report, 2015 (tool: RevealDroid)
+  + Heldroid: Fast and Efficient Linguistic-Based Ransomware Detection, UIC Master Disseration, 2015 (tool: Heldroid)
   + StormDroid: A Streaminglized Machine Learning-based System for Detecting Android Malware, AsiaCCS 2016
   + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (tool: DroidScribe)
 
@@ -88,6 +90,7 @@
   + AppIntent: Analyzing Sensitive Data Transmission in Android for Privacy Leakage Detection, CCS 2013
   + Checking Interation-Based Declassification Policies for Android Using Symbolic Execution, ESORICS 2015 (tool: ClickRelease)
   + HornDroid: Practical and Sound Static Analysis of Android Applications by SMT Solving, Euro S&P 2016
+  + Practical, Formal Synthesis and Autonomic Enforcement of Security Policies for Android, DSN 2016
 
 + Realtime Monitoring
 
@@ -107,6 +110,8 @@
   + Systematic Execution of Android Test Suites in Adverse Conditions, ISSTA 2015
   + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
   + Sapienz: Multi-objective Automated Testing for Android Applications, ISSTA 2016 (tool: Sapienz)
+  + Energy-Aware Test-Suite Minimization for Android Apps, ISSTA 2016
+  
 
 ## Native Code Analysis
 + Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy, NDSS 2016
@@ -182,8 +187,10 @@
 + Permission based Android security: Issues and Countermeasures, Computers&Security 2014
 + Exploring Permission-Induced Risk in Android Applications for Malicious Application Detection, TIFS 2014
 + Android Permission Remystified: A Field Study on Contextual Integrity, USENIX Security 2015
++ Detection of Design Flaws in the Android Permission Protocol through Bounded Verification, FM 2015
 + revDroid: Code Analysis of the Side Effects after Dynamic Permission Revocation of Android Apps, AsiaCCS 2016
 + Small Changes, Big Changes: An Updated View on the Android Permission System, RAID 2016
++ A Formal Approach for Detection of Security Flaws in the Android Permission System, Journal on Formal Aspects of Computing 2016
 
 ## Anti-Malware Tool Auditing
 + DroidChameleon: Evaluating Android Anti-malware Against Transformation Attacks, AsiaCCS 2013
@@ -191,6 +198,7 @@
 + Enter Sandbox: Android Sandbox Comparison, IEEE Mobile Security Technologies (MoST) 2014
 + Catch Me If You Can: Evaluating Android Anti-Malware Against Transformation Attacks, IEEE TIFS 2014
 + Towards Discovering and Understanding Unexpected Hazards in Tailoring Antivirus Software for Android, AsiaCCS 2015
++ How Current Android Malware Seeks to Evade Automated Code Analysis, Information Security Theory and Practice, 2016
 + Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016
 
 ## Characterization and Evolution
@@ -210,7 +218,7 @@
 + Collaborative Security: A Survey and Taxonomy, CSUR 2015
 + PRADA: Prioritizing Android Devices for Apps by Mining Large-Scale Usage Data, ICSE 2016 (It finds the prioritized devices for apps)
 + SoK: Lessons Learned From Android Security Research For Appified Software Platforms, IEEE S&P 2016 (framework: SoK)
-
++ A Taxonomy and Qualitative Comparison of Program Analysis Techniques for Security Assessment of Android Software, TSE 2016
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
@@ -222,6 +230,7 @@
 + Application Collusion Attack on the Permission-based Security Model and its Implications for Modern Smartphone Systems, REPORT 2011
 + A Stealthy and Context-Aware Sound Trojan for Smartphones, NDSS 2011
 + New Privacy Issues in Mobile Telephony: Fix and Verification, CCS 2012
++ UI Redressing Attacks on Android Devices, US BlackHat 2012 (vul: tapjacking)
 + Upgrading Your Android, Elevating My Malware: Priviledge Escalation Through Mobile OS Updating, S&P 2014
 + The Peril of Fragmentation: Security Hazards in Android Device Driver Customizations, S&P 2014
 + From Zygote to Morula: Fortifying Weakened ASLR on Android, S&P 2014
@@ -237,6 +246,7 @@
 + From System Services Freezing to System Server Shutdown in Android: All You Need is a Loop in an App, CCS 2015 (tool: ASV-Hunter, vul:Android Stroke Vulnerabilies)
 + Hare Hunting in the Wild Android: A Study on the Threat of Hanging Attribute References, CCS 2015 (tool: Harehunter, vul: hanging attribute references)
 + Android Root and its Providers: A Double-Edged Sword, CCS 2015
++ An Investigation of the Android/BadAccents Malware which Exploits a new Android Tapjacking Attack, TechReport (TUD-CS-2015-0065), 2015
 + Life after App Unistallation: Are the Data Still Alive? Data Residue Attacks on Android, NDSS 2016
 + Kratos: Discovering Inconsistent Security Policy Enforcement in the Android Framework, NDSS 2016 (tool: Kratos)
 + MobiPlay: A Remote Execution Based Record-and-Replay Tool for Mobile Applications, ICSE 2016
@@ -268,7 +278,6 @@
 + Finding Errors in Multi-threaded GUI Applications, ISSTA 2012
 + A Grey-Box Approach for Automated GUI-model Generation of Mobile Applications, FASE 2013  
 + Guided GUI Testing of Android Apps with Minimal Restart and Approximate learning, OOPSLA 2013 (tool: Swift-Hand)
-+ Static Reference Analysis for GUI Objects in Android Software, CGO 2014
 + Static Window Transition Graphs for Android, ASE 2015
 + GUITAR: Piecing Together Android App GUIs from Memory Images, CCS 2015
 + Static Analysis of GUI Behavior in Android Applications, Ph.D Dissetation 2015
@@ -308,4 +317,17 @@
 ## Android Compatibility Issues
  + Understanding Android Fragmentation with Topic Analysis of Vendor-Specific Bugs, WCRE 2012
  + Taming Android Fragmentation: Characterizing and Detecting Compatibility Issues for Android Apps, ASE 2016 (tool: FicFinder)
+ 
+## Large-Scale Android Malware Analysis
+ + Dissecting Android Malware: Characterization and Evoluation, S&P 2012
+ + AndRadar: Fast Discovery of Android Applications in Alternative Markets, DIMVA 2014 (tool: AndRadar)
+ + ANDRUBIS - 1,000,000 Apps Later: A View on Current Android Malware Behaviors, BADGERS 2014 (tool: Andrubis)
+ + SherlockDroid: a Research Assistant to Spot Unknown Malware in Android Marketplaces, Journal of Computer Virology and Hacking Techniques 2015 (tool: SherlockDroid)
+ + DroidSearch: A Tool for Scaling Android App Triage to Real-world App Stores, SAI 2015 (tool: DroidSearch)
 
+## Sandbox Evasion
+ + Common Weakness of Android Malware Analysis Frameworks, NULL
+ + BareDroid: Large-Scale Analysis of Android Apps on Real Devices, ACSAC 2015 (tool: BareDroid)
+ 
+## Android Ransomware
+  + Heldroid: Fast and Efficient Linguistic-Based Ransomware Detection, UIC Master Disseration, 2015 (tool: Heldroid)
