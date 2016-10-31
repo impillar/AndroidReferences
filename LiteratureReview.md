@@ -222,6 +222,7 @@
 + PRADA: Prioritizing Android Devices for Apps by Mining Large-Scale Usage Data, ICSE 2016 (It finds the prioritized devices for apps)
 + SoK: Lessons Learned From Android Security Research For Appified Software Platforms, IEEE S&P 2016 (framework: SoK)
 + A Taxonomy and Qualitative Comparison of Program Analysis Techniques for Security Assessment of Android Software, TSE 2016
++ FeatureSmith: Automatically Engineering Features for Malware Detection by Mining the Security Literature, CCS 2016 (tool: FeatureSmith)
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
