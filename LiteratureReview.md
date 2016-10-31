@@ -74,6 +74,7 @@
   + Heldroid: Fast and Efficient Linguistic-Based Ransomware Detection, UIC Master Disseration, 2015 (tool: Heldroid)
   + StormDroid: A Streaminglized Machine Learning-based System for Detecting Android Malware, AsiaCCS 2016
   + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (tool: DroidScribe)
+  + LUNA: Quantifying and Leveraging Uncertainy in Android Malware Analysis through Bayesian Machine Learning, Euro S&P 2017 (tool: LUNA)
 
 + Fingerprint & matching
 
@@ -98,6 +99,7 @@
   + "Andromaly": a Behavioral Malware Detection Framework for Android Devices, Journal of Intelligent Information Systems 2012
   + Efficient Runtime Monitoring with Metric Temporal Logic: A Case Study in the Android Operating System, FM 2013
   + AppsPlayground: Automatic Security Analysis of Smartphone Applications, CODASPY 2013 (tool: AppsPlayground)
+  + ARTist: The Android Runtime Instrumentation and Security Toolkit, Euro S&P 2017 (tool: ARTist)
 
 + Testing
 
@@ -114,7 +116,7 @@
   
 
 ## Native Code Analysis
-+ Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy, NDSS 2016
+ (tool+ Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy, NDSS 2016
 
 ## Clone Analysis
 + Juxtapp: A Scalable System for Detecting Code Resuse Among Android Applications, DIMVA 2012
@@ -140,6 +142,7 @@
 + An Empirical Study of Mobile Ad Targeting, arXir 2015
 + MAdScope: Characterizing Mobile In-App Targeted Ads, MobiSys 2015 (tool: MAdScope)
 + Are these Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces, NDSS 2016
++ The Price of Free: Privacy Leakage in Personalized Mobile In-Apps Ads, NDSS 2016
 + Free for All! Assessing User Data Exposure to Advertising Libraries on Android, NDSS 2016 (tool: Pluto)
 + Following Devil’s Footprints: Cross-Platform Analysis of Potentially Harmful Libraries on Android and iOS, S&P 2016 (tool: PhaLib)
 + Reliable Third-Party Library Detection in Android and its Security Applications, CCS 2016
