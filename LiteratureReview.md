@@ -116,7 +116,7 @@
   
 
 ## Native Code Analysis
- (tool+ Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy, NDSS 2016
+ + Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy, NDSS 2016
 
 ## Clone Analysis
 + Juxtapp: A Scalable System for Detecting Code Resuse Among Android Applications, DIMVA 2012
