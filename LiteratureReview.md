@@ -335,3 +335,6 @@
  
 ## Android Ransomware
   + Heldroid: Fast and Efficient Linguistic-Based Ransomware Detection, UIC Master Disseration, 2015 (tool: Heldroid)
+  
+## Financial App Analysis
+ + DroydSeuss: A Mobile Banking Trojan Tracker, TechReport? (tool: DroydSeuss)
