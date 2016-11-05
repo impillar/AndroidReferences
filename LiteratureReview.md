@@ -117,7 +117,15 @@
 
 ## Native Code Analysis
  + Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy, NDSS 2016
-
+ + DroidNative: Semantic-Based Detection of Android, arXiv.org 2016
+ + Finding Bugs in Java Native Interface Programs, ISSTA 2008
+ + Native Code Execution Control for Attack Mitigation on Android, SPSM 2013 
+ + NativeGuard: Protecting Android Applicaions from Third-Party Native Libraries, WiSec 2014
+ + Robusta: Taming the Native Beast of the JVM, CCS 2010 
+ + Towards Bridging the Gap Between Dalvik Bytecode and Native Code During Static Analysis of Android Applications, IEEE 2015
+ 
+ 
+Native Code Malware
 ## Clone Analysis
 + Juxtapp: A Scalable System for Detecting Code Resuse Among Android Applications, DIMVA 2012
 + Attack of the Clones: Detecting Cloned Applications on Android Markets, ESORICS 2012
