@@ -229,6 +229,7 @@
 + SoK: Lessons Learned From Android Security Research For Appified Software Platforms, IEEE S&P 2016 (framework: SoK)
 + A Taxonomy and Qualitative Comparison of Program Analysis Techniques for Security Assessment of Android Software, TSE 2016
 + FeatureSmith: Automatically Engineering Features for Malware Detection by Mining the Security Literature, CCS 2016 (tool: FeatureSmith)
++ *droid: Assessment and Evaluation of Android Application Analysis Tools, CSUR 2016 (tool: *droid)
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
