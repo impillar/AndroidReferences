@@ -27,6 +27,7 @@
   + IccTA: Detecting Inter-Component Privacy Leaks in Android Apps, ICSE 2015
   + Static Control-Flow Analysis of User-Driven Callbacks in Android Applications, ICSE 2015
   + DroidJust: Automated Functionality-Aware Privacy Leakage Analysis for Android Applications, WiSec 2015 (tool: DroidJust)
+  + Profiling User-Trigger Dependence for Android Malware Detection, Computer&Security 2015
   + Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques, NDSS 2016 (tool: HARVESTER)
   + HornDroid: Practical and Sound Static Analysis of Android Applications by SMT Solving, Euro S&P 2016
   + StubDroid: Automatic Inference of Precise Data-flow Summaries for the Android Framework, ICSE 2016
