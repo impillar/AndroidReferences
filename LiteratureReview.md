@@ -258,6 +258,7 @@
 + From System Services Freezing to System Server Shutdown in Android: All You Need is a Loop in an App, CCS 2015 (tool: ASV-Hunter, vul:Android Stroke Vulnerabilies)
 + Hare Hunting in the Wild Android: A Study on the Threat of Hanging Attribute References, CCS 2015 (tool: Harehunter, vul: hanging attribute references)
 + Android Root and its Providers: A Double-Edged Sword, CCS 2015
++ Leave Me Alone: App-Level Protection Against Runtime Information Gathering on Android, IEEE S&P 2015 (tool: App Guardian)
 + An Investigation of the Android/BadAccents Malware which Exploits a new Android Tapjacking Attack, TechReport (TUD-CS-2015-0065), 2015
 + Life after App Unistallation: Are the Data Still Alive? Data Residue Attacks on Android, NDSS 2016
 + Kratos: Discovering Inconsistent Security Policy Enforcement in the Android Framework, NDSS 2016 (tool: Kratos)
