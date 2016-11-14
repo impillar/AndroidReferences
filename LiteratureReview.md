@@ -219,6 +219,7 @@
 + Dissecting Android Malware: Characterization and Evoluation, S&P 2012
 + An Empirical Study of API Stability and Adoption in the Android Ecosystem, ICSM 2013
 + The Impact of Vendor Customizations on Android Security, CCS 2013
++ An Empirical Study of Cryptographic Misuse in Android Applications, CCS 2013
 + AndroSAT: Security Analysis Tool for Android Application, 8th International Conference on Emerging Security Information, System and Technologies, 2014
 + A Taxonomy of Privilege Escalation Attacks in Android Applications, International Journal of Security and Networks 2014
 + A Machine-learning Approach for Classifying and Categorizing Android Sources and Sinks, NDSS 2014
