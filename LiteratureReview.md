@@ -208,6 +208,7 @@
 + Enter Sandbox: Android Sandbox Comparison, IEEE Mobile Security Technologies (MoST) 2014
 + Catch Me If You Can: Evaluating Android Anti-Malware Against Transformation Attacks, IEEE TIFS 2014
 + Towards Discovering and Understanding Unexpected Hazards in Tailoring Antivirus Software for Android, AsiaCCS 2015
++ Uncovering the Dilemmas on Antivirus Software Design in Modern Mobile Platforms, ICST 2015
 + How Current Android Malware Seeks to Evade Automated Code Analysis, Information Security Theory and Practice, 2016
 + Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016
 
@@ -249,13 +250,14 @@
 + From Zygote to Morula: Fortifying Weakened ASLR on Android, S&P 2014
 + Peeking into Your App without Actually Seeing It: UI State Inference and Novel Android Attacks, USENIX Security 2014
 + Gyrophone: Recognizing Speech From Gyroscope Signals, USENIX Security 2014
-+ Execute This! Analyzing Unsafe  and Malicious Dynamic Code Loading in Android Applications, NDSS 2014
++ Execute This! Analyzing Unsafe and Malicious Dynamic Code Loading in Android Applications, NDSS 2014
 + Divide-and-Conquer: Why Android Malware cannot be Stopped, ARES 2014 (tool:Sand-Finger)
 + Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware, EuroSec 2014
 + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
 + Supor: Precise and Scalable Sensitive User Input Detection for Android Apps, USENIX 2014 (tool: Supor)
 + You Shouldn't Collect My Secrets: Thwarting Sensitive Keystroke Leakage in Mobile IME Apps, USENIX Security 2015
 + COVERT: Compositional Analysis of Android Inter-App Permission Leakage, TSE 2015
++ Grab'n Run: Practical and Safe Dynamic Code Loading in Android, Ph.D Disertation 2015
 + From System Services Freezing to System Server Shutdown in Android: All You Need is a Loop in an App, CCS 2015 (tool: ASV-Hunter, vul:Android Stroke Vulnerabilies)
 + Hare Hunting in the Wild Android: A Study on the Threat of Hanging Attribute References, CCS 2015 (tool: Harehunter, vul: hanging attribute references)
 + Android Root and its Providers: A Double-Edged Sword, CCS 2015
