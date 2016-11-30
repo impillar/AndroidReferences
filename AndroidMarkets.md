@@ -1,30 +1,50 @@
-
++ 1Mobile: http://www.1mobile.com/
++ 7723: http://3g.7723.cn/
++ ACMarket: http://acmarket.net
++ Amazon: http://www.amazon.com/mobile-apps/b?node=2350149011
++ AndroidDrawer: http://www.androiddrawer.com/
++ AnGeeks: http://www.angeeks.com/
++ Anruan: http://www.anruan.com/
 + Anzhi: http://anzhi.com/
++ AOnline: https://www.andapponline.com/
++ Apk20: http://www.apk20.com/
++ APK4Fun: http://www.apk4fun.com/
++ ApkHere: http://www.apkhere.com/
++ APKMirror: http://www.apkmirror.com/
++ Apkpure: https://apkpure.com
++ AppChina: http://www.appchina.com/
++ App Fun: http://appfun.cn/
++ AppsApk: http://appsapk.com
++ Appszoom: http://www.appszoom.com/
++ Aptoide: http://www.aptoide.com/ (Portugal)
 + Baidu: http://shouji.baidu.com/ 
-+ Wandoujia: http://www.wandoujia.com/apps
++ Camangi Market: http://www.camangimarket.com/index.html
++ China Mobile: http://mm.10086.cn/
++ CNMO: http://app.cnmo.com/
++ CoolApk: http://coolapk.com
++ EOE Market: http://www.eoemarket.com/
++ Flyme: http://app.flyme.cn/
++ FreewareLovers: http://www.freewarelovers.com/android
++ F-Droid: https://f-droid.org/
++ GetJar: http://www.getjar.com/
++ gFan: http://apk.gfan.com/
++ HiApk: http://www.hiapk.com/
++ HiAppHere: http://www.hiapphere.site/
++ Huawei: http://appstore.huawei.com/
++ Lenove: http://www.lenovomm.com/
++ MI: http://app.mi.com/
++ Mob: http://mob.org/
++ Mobogenie: http://www.mobogenie.com/
++ Mumayi:http://www.mumayi.com/
++ NDuo: http://www.nduoa.com | http://www.nduo.cn
++ Pandaapp: http://download.pandaapp.com/
++ Phoload: http://www.phoload.com/
++ QQ: http://sj.qq.com/myapp/
 + Samsung: http://www.samsung.com/cn/apps/mobile/galaxyapps/
 + SlideMe: http://slideme.org
-+ F-Droid: https://f-droid.org/
-+ Amazon: http://www.amazon.com/mobile-apps/b?node=2350149011
-+ Flyme: http://app.flyme.cn/
++ Soc.io: http://soc.io/apps
 + TorrApk: https://www.torrapk.com/
-+ AndroidDrawer: http://www.androiddrawer.com/
-+ AppsApk: http://appsapk.com
-+ Aptoide: http://www.aptoide.com/ (Portugal)
-+ GetJar: http://www.getjar.com/
-+ Phoload: http://www.phoload.com/
-+ 1Mobile: http://www.1mobile.com/
-+ CoolApk: http://coolapk.com
-+ MI: http://app.mi.com/
-+ APKMirror: http://www.apkmirror.com/
-+ Huawei: http://appstore.huawei.com/
-+ ZTE: http://apps.ztems.com/
-+ China Mobile: http://mm.10086.cn/
++ Uptodown: http://en.uptodown.com/android
++ Wandoujia: http://www.wandoujia.com/apps
 + Wangyi: http://m.163.com/android/index.html
-+ AppChina: http://www.appchina.com/
-+ Mumayi:http://www.mumayi.com/
-+ EOE Market: http://www.eoemarket.com/
-+ gFan: http://apk.gfan.com/
-+ QQ: http://sj.qq.com/myapp/
-+ CNMO: http://app.cnmo.com/
-+ Apkpure: https://apkpure.com
++ ZTE: http://apps.ztems.com/
