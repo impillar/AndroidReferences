@@ -103,18 +103,20 @@
   + ARTist: The Android Runtime Instrumentation and Security Toolkit, Euro S&P 2017 (tool: ARTist)
 
 + Testing
-
   + A GUI Crawling-based technique for Android Mobile Application Testing, ICSTW 2011
+  + Experiences of System-Level Model-based GUI Testing of an Android Application, ICST 2011
   + Using GUI Ripping for Automated Testing of Android Applications, ASE 2012 (tool: AndroidRipper)
   + Testing Android Apps Through Symbolic Execution, ACM SIGSOFT Software Engineering Notes 2012
+  + Automated Concolic Testing of Smartphone Apps, FSE 2012
   + Systematic Testing for Resource Leaks in Android Applications, ISSRE 2013
+  + Automated Testing with Targeted Event Sequence Generation, ISSTA 2013 (tool: Collider)
   + Dynodroid: An Input Generation System for Android Apps, ESEC/FSE 2013 (tool: Dynodroid)
   + Automated Test Input Generation for Android: Are We There Yet? ASE 2015
   + Systematic Execution of Android Test Suites in Adverse Conditions, ISSTA 2015
   + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
   + Sapienz: Multi-objective Automated Testing for Android Applications, ISSTA 2016 (tool: Sapienz)
   + Energy-Aware Test-Suite Minimization for Android Apps, ISSTA 2016
-  
+  + Lifecycle and Event-based Testing for Android Applications, Ph.D Dissertation (author: GRAZIUSSI, SIMONE)   
 
 ## Native Code Analysis
  + Finding Bugs in Java Native Interface Programs, ISSTA 2008
@@ -350,3 +352,17 @@
   
 ## Financial App Analysis
  + DroydSeuss: A Mobile Banking Trojan Tracker, TechReport? 2014 (tool: DroydSeuss)
+ 
+## Race Condition Analysis
+ + Effective Race Detection for Event-Driven Programs, OOPSLA 2013 (tool: EventRacer)
+ + Race Detection for Event-Driven Mobile Application, PLDI 2014 (tool: CAFA)
+ + SdnRacer: Detecting Concurrency Violations in Software-Defined Networks, SOSR 2015 (tool: SdnRacer)
+ + Automatically Verifying and Reproducing Event-based Races in Android Apps, ISSTA 2016 (tool: ERVA)
+ + Efficient Race Detection in the Presence of Programmatic Event Loops, ISSTA 2016 (tool: SparseRacer)
+ + Generating Test Cases to Expose Concurrency Bugs in Android Applications, ASE 2016 (tool: RacerDroid)
+ + Stateless Model Checking with Data-Race Preemption Points, OOPSLA 2016 (tool: Quicksand)
+ + Partial Order Reduction for Event-Driven Multi-threaded Programs, TACAS 2016
+ + Precise and Maximal Race Detection from Incomplete Traces, OOPSLA 2016 (tool: RDIT)
+ + RDIT: Race Detection from Incomplete Traces, FSE 2016 (tool: RDIT)
+ 
+ 
