@@ -357,6 +357,7 @@
  + Effective Race Detection for Event-Driven Programs, OOPSLA 2013 (tool: EventRacer)
  + Race Detection for Event-Driven Mobile Application, PLDI 2014 (tool: CAFA)
  + SdnRacer: Detecting Concurrency Violations in Software-Defined Networks, SOSR 2015 (tool: SdnRacer)
+ + Scalable Race Detection in Android Applications, OOPSLA 2015
  + Automatically Verifying and Reproducing Event-based Races in Android Apps, ISSTA 2016 (tool: ERVA)
  + Efficient Race Detection in the Presence of Programmatic Event Loops, ISSTA 2016 (tool: SparseRacer)
  + Generating Test Cases to Expose Concurrency Bugs in Android Applications, ASE 2016 (tool: RacerDroid)
