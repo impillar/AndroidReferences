@@ -16,7 +16,7 @@
   + Slicing Droids: Program Slicing for Smali Code, SAC 2013 (tool: SAAF)
   + Sound and Precise Malware Analysis for Android via Pushdown Reachability and Entry-Point Saturation, SPSM 2013 (tool: Anadroid)
   + FlowDroid: Precise Context, Flow, Field, Object-sensitive and Lifecycle-aware Taint Analysis for Android Apps, PLDI 2014
-  + Appocopy: Semantics-based Detection of Android Malware Through Static Analysis, FSE 2014
+  + Apposcopy: Semantics-based Detection of Android Malware Through Static Analysis, FSE 2014
   + Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps, CCS 2014
   + AppContext: Differentiating Malicious and Benign Mobile App Behavior Under Contexts, ICSE 2014
   + AsDroid: Detecting Stealthy Behaviors in Android Applications by User Interface and Program Behavior Constradiction, ICSE 2014
