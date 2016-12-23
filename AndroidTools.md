@@ -180,3 +180,7 @@
 + [Projects/OWASP Mobile Security Project – Top Ten Mobile Controls](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Controls)
 + [PCI Mobile Payment Acceptance Security Guidelines for Developers](https://www.pcisecuritystandards.org/documents/Mobile%20Payment%20Security%20Guidelines%20v1%200.pdf)
 + [Secure Coding in Android](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=111509535)
+
+## Android App Crawler
++ [APK Downloader](http://apps.evozi.com/apk-downloader/): A web service to take package name as input, and generate a link to download apps in Google Play.
++ [Gplaycli](https://github.com/matlink/gplaycli): A framework to download Android apps from Google Play via command line
