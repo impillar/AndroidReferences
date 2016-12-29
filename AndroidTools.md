@@ -77,6 +77,7 @@
 + [ADBI Framework](https://github.com/crmulliner/ddi) – Simple and easy to use toolkit for dynamic instrumentation of Dalvik code.
 + [Cydia Substrate](http://www.cydiasubstrate.com/) – Cydia Substrate for Android enables developers to make changes to existing software with Substrate extensions that are injected in to the target process’s memory.
 + [Xposed Framework](http://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) – Xposed framework enables you to modify the system or application aspect and behaviour at runtime, without modifying any Android application package(APK) or re-flashing.
++ [Dexposed](https://github.com/alibaba/dexposed) - Dexposed is a powerful yet non-invasive runtime AOP (Aspect-oriented Programming) framework for Android app development, based on the work of open-source Xposed framework project.
 + [Frida](http://www.frida.re/) – Inject JavaScript to explore native apps on Android
 + [ELLA](https://github.com/saswatanand/ella) - Ella is a tool to instrument Android APK's for various purposes. Out of the box, it instruments apps to record which methods gets executed. It can also record time-stamped trace of executed methods, values of arguments passed at call-sites, values of formal parameters of methods, etc.
 
