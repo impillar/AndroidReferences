@@ -275,9 +275,12 @@
 + The Misuse of Android Unix Domain Sockets and Security Implications, CCS 2016
 
 ## Performance Analysis
++ Accurate Online Power Estimation and Automatic Battery Behavior Based Power Model Generation for Smartphones, CODES+ISSS 2010(tool: PowerTutor)
++ Monitoring Energy Consumption of Smartphones, iThings/CPSCom 2011(tool: SEMO)
 + Bootstrapping Energy Debugging on Smartphones: A First Look at Energy Bugs in Mobile Devices, HotNets-X 2011
 + Fine-Grained Power Modeling for Smartphones Using System Call Tracing, EuroSys 2011
 + Where is the energy spent inside my app? Fine Grained Energy Accounting on Smartphones with Eprof, EuroSys 2012
++ eDoctor: Automatically Diagnosing Abnormal Battery Drain Issues on Smartphones, USENIX 2013(tool: eDoctor)
 + GreenDroid: Automated Diagnosis of Energy Inefficiency for Smartphone Applications, TSE 2014
 + Responsiveness Analysis Tool for Android Applications, DeMobile 2014
 + Detecting Energy Bugs and Hotspots in Mobile Apps, FSE 2014
