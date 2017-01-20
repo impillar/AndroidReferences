@@ -37,6 +37,11 @@
   + DroidRA: Taming Reflection to Support Whole-Program Analysis of Android Apps, ISSTA 2016 (tool: DroidRA)
   + TaintART: A Practical Multi-level Information-Flow Tracking System for Android RunTime, CCS 2016 (tool: TaintART)
   + Software Architectural Principles in Contemporary Mobile Software: from Conception to Practice, Journal of Systems and Software, 2016
+  + Obfuscation-Resilient Privacy Leak Detection for Mobile Apps Through Differential Analysis, NDSS 2017
+  + MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models, NDSS 2017 (tool: MaMaDroid)
+  + A SEALANT for Inter-App Security Holes in Android, ICSE 2017 (tool: SEALANT)
+  + Adaptive Unpacking of Android Apps, ICSE 2017
+  + An Efficient, Robust, and Scalable Approach for Analyzing Interacting Android Apps, ICSE 2017
  
 + Dynamic Analysis
 
@@ -76,6 +81,7 @@
   + StormDroid: A Streaminglized Machine Learning-based System for Detecting Android Malware, AsiaCCS 2016
   + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (tool: DroidScribe)
   + LUNA: Quantifying and Leveraging Uncertainy in Android Malware Analysis through Bayesian Machine Learning, Euro S&P 2017 (tool: LUNA)
+  + Dark Hazard: Learning-based, Large-Scale Discovery of Hidden Sensitive Operations in Android Apps, NDSS 2017
 
 + Fingerprint & matching
 
@@ -116,7 +122,8 @@
   + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
   + Sapienz: Multi-objective Automated Testing for Android Applications, ISSTA 2016 (tool: Sapienz)
   + Energy-Aware Test-Suite Minimization for Android Apps, ISSTA 2016
-  + Lifecycle and Event-based Testing for Android Applications, Ph.D Dissertation (author: GRAZIUSSI, SIMONE)   
+  + Lifecycle and Event-based Testing for Android Applications, Ph.D Dissertation (author: GRAZIUSSI, SIMONE)
+  + Automatic Input Generation for Mobile Testing, ICSE 2017
 
 ## Native Code Analysis
  + Finding Bugs in Java Native Interface Programs, ISSTA 2008
@@ -155,6 +162,7 @@
 + Free for All! Assessing User Data Exposure to Advertising Libraries on Android, NDSS 2016 (tool: Pluto)
 + Following Devil’s Footprints: Cross-Platform Analysis of Potentially Harmful Libraries on Android and iOS, S&P 2016 (tool: PhaLib)
 + Reliable Third-Party Library Detection in Android and its Security Applications, CCS 2016
++ LibD: Scalable and Precise Third-party Library Detection in Android Markets, ICSE 2017 (tool: LibD)
 
 ## Inter-Component Communication Analysis
 + Analyzing Inter-Application Communication in Android, MobiSys 2011 (tool: ComDroid)
@@ -187,6 +195,7 @@
 + Reference Hijacking: Patching, Protecting and Analyzing on Unmodified and Non-Rooted Android Devices, ICSE 2016 (prototype: PatchMan, ControlMan and TaintMan)
 + Automated Partitioning of Android Applications for Trusted Execution Environments, ICSE 2016
 + FLEX: A Flexible Code Authentication Framework for Delegating Mobile App Customization, AsiaCCS 2016
++ WindowGuard: Systematic Protection of GUI Security in Android, NDSS 2017 (tool: WindowGuard)
 
 ## Android Permission System
 + A Formal Model to Analyze the Permission Authorization and Enforcement in the Android Framework, IEEE International Conference on Social Computing/IEEE International Conferene on Privacy, Security, Risk and Turst 2010
@@ -230,12 +239,14 @@
 + Andrubis -- 1,000,000 Apps Later: A View on Current Android Malware Behaviors, BADGERS 2014 (tool: Andrubis)
 + Securing Android: A Survey, Taxonomy, and Challenges, CSUR 2015
 + Collaborative Security: A Survey and Taxonomy, CSUR 2015
++ Android Malware Static Analysis Techniques, CISR 2015
 + PRADA: Prioritizing Android Devices for Apps by Mining Large-Scale Usage Data, ICSE 2016 (It finds the prioritized devices for apps)
 + SoK: Lessons Learned From Android Security Research For Appified Software Platforms, IEEE S&P 2016 (framework: SoK)
 + A Taxonomy and Qualitative Comparison of Program Analysis Techniques for Security Assessment of Android Software, TSE 2016
 + FeatureSmith: Automatically Engineering Features for Malware Detection by Mining the Security Literature, CCS 2016 (tool: FeatureSmith)
 + *droid: Assessment and Evaluation of Android Application Analysis Tools, CSUR 2016 (tool: *droid)
 + Toward Engineering a Secure Android Ecosystem: A Survey of Existing Techniques, CSUR 2016
++ The Evolution of Android Malware and Android Analysis Techniques, CSUR 2017
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
@@ -273,6 +284,7 @@
 + Call Me Back! Attacks on System Server and System Apps in Android through Synchronous Callback, CCS 2016
 + Android ION Hazard: the Curse of Customizable Memory Management System, CCS 2016
 + The Misuse of Android Unix Domain Sockets and Security Implications, CCS 2016
++ Show Me the Money! Finding Flawed Implementations of Third-party In-app Payment in Android Apps, NDSS 2017
 
 ## Performance Analysis
 + Accurate Online Power Estimation and Automatic Battery Behavior Based Power Model Generation for Smartphones, CODES+ISSS 2010(tool: PowerTutor)
@@ -313,6 +325,8 @@
 + VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images, CCS 2015
 + Towards Automatic Generation of Security-Centric Descriptions for Android Apps, CCS 2015 (tool: DESCRIBEME)
 + AUTOREB: Automatically Understanding the Review-to-Behavior Fidelity in Android Applications, CCS 2015 (tool: AUTOREB)
++ Automated Analysis of Privacy Requirements for Mobile Apps, NDSS 2017
++ Recommending and Localizing Change Requests for Mobile Apps based on User Reviews, ICSE 2017
 
 ## Obfuscation & Evasion Techniques
  + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
@@ -370,4 +384,5 @@
  + Precise and Maximal Race Detection from Incomplete Traces, OOPSLA 2016 (tool: RDIT)
  + RDIT: Race Detection from Incomplete Traces, FSE 2016 (tool: RDIT)
  
- 
+## IoT Stuff
+ + Analysis and Testing of Notifications in Android Wear Applications, ICSE 2017 
