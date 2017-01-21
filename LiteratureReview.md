@@ -320,11 +320,14 @@
 + Automated Model-Based Android GUI Testing using Multi-level GUI Comparison Criteria, ASE 2016
 
 ## Forensic Analysis
++ WHYPER: Towards Automating Risk Assessment of Mobile Applications, USENIX Security 2013
 + Checking App Behavior Against App Descriptions, ICSE 2014 (tool: CHABADA)
-+ WHYPER: Towards Automating Risk Assessment of Mobile Applications, USENIX Security 
++ A Forensic Analysis of Android Malware - How is Malware Written and How it Could be Detected? COMPSAC 2014
 + VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images, CCS 2015
 + Towards Automatic Generation of Security-Centric Descriptions for Android Apps, CCS 2015 (tool: DESCRIBEME)
 + AUTOREB: Automatically Understanding the Review-to-Behavior Fidelity in Android Applications, CCS 2015 (tool: AUTOREB)
++ On the Lack of Consensus in Anti-Virus Decisions Metrics and Insights on Building Ground Truths of Android Malware with VirusTotal, DIMVA 2016 
++ AVclass: A Tool for Massive Malware Labeling, RAID 2016 (tool: AVClass)
 + Automated Analysis of Privacy Requirements for Mobile Apps, NDSS 2017
 + Recommending and Localizing Change Requests for Mobile Apps based on User Reviews, ICSE 2017
 
@@ -387,3 +390,6 @@
  
 ## IoT Stuff
  + Analysis and Testing of Notifications in Android Wear Applications, ICSE 2017 
+ 
+## Knowledge Mining
+
