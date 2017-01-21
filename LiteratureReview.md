@@ -360,7 +360,8 @@
  + ANDRUBIS - 1,000,000 Apps Later: A View on Current Android Malware Behaviors, BADGERS 2014 (tool: Andrubis)
  + SherlockDroid: a Research Assistant to Spot Unknown Malware in Android Marketplaces, Journal of Computer Virology and Hacking Techniques 2015 (tool: SherlockDroid)
  + DroidSearch: A Tool for Scaling Android App Triage to Real-world App Stores, SAI 2015 (tool: DroidSearch)
-
+ + Android Malware Development on Public Malware Scanning Platforms: A Large-scale Data-driven Study, IEEE BigData 2016 (tool: AMDHunter)
+ 
 ## Sandbox Evasion
  + Common Weakness of Android Malware Analysis Frameworks, NULL
  + BareDroid: Large-Scale Analysis of Android Apps on Real Devices, ACSAC 2015 (tool: BareDroid)
