@@ -221,7 +221,8 @@
 + Towards Discovering and Understanding Unexpected Hazards in Tailoring Antivirus Software for Android, AsiaCCS 2015
 + Uncovering the Dilemmas on Antivirus Software Design in Modern Mobile Platforms, ICST 2015
 + How Current Android Malware Seeks to Evade Automated Code Analysis, Information Security Theory and Practice, 2016
-+ Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016
++ Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016 (tool: Mystique)
++ Auditing Anti-Malware Tools by Evolving Android Malware and Dynamic Loading Technique, TIFS 2017 (tool: Mystique-S)
 
 ## Characterization and Evolution
 + Understanding Android Security, S&P 2009
@@ -250,7 +251,8 @@
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
-+ Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016
++ Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016 (tool: Mystique)
++ Auditing Anti-Malware Tools by Evolving Android Malware and Dynamic Loading Technique, TIFS 2017 (tool: Mystique-S)
 
 ## New vulnerabilities & Attacks
 + Fuzzing the Phone in Your Phone, Black Hat USA 2009
