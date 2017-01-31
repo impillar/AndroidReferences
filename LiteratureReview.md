@@ -286,7 +286,7 @@
 + The Misuse of Android Unix Domain Sockets and Security Implications, CCS 2016
 + Show Me the Money! Finding Flawed Implementations of Third-party In-app Payment in Android Apps, NDSS 2017
 
-## Performance Analysis
+## Performance & Energy Analysis
 + Accurate Online Power Estimation and Automatic Battery Behavior Based Power Model Generation for Smartphones, CODES+ISSS 2010(tool: PowerTutor)
 + Monitoring Energy Consumption of Smartphones, iThings/CPSCom 2011(tool: SEMO)
 + Bootstrapping Energy Debugging on Smartphones: A First Look at Energy Bugs in Mobile Devices, HotNets-X 2011
@@ -305,6 +305,8 @@
 + PersisDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions, arXiv 2015
 + Energy-Aware Test-Suite Minimization for Android Apps, ISSTA 2016
 + Automatically Verifying and Reproducing Event-based Races in Android Apps, ISSTA 2016
++ Battery-Aware Mobile Data Service, TMC 2016 (tool: B-MODS)
++ Battery State-of-Health Estimation for Mobile Devices, ICCPS 2017 (tool: V-BASH)
 
 ## Android GUI Analysis
 + Automating GUI Testing for Android Applications, AST 2011
