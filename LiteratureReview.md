@@ -317,6 +317,7 @@
 + A Grey-Box Approach for Automated GUI-model Generation of Mobile Applications, FASE 2013  
 + Guided GUI Testing of Android Apps with Minimal Restart and Approximate learning, OOPSLA 2013 (tool: Swift-Hand)
 + Static Window Transition Graphs for Android, ASE 2015
++ What the App is That? Deception and Countermeasures in the Android User Interface, S&P 2015
 + GUITAR: Piecing Together Android App GUIs from Memory Images, CCS 2015
 + Static Analysis of GUI Behavior in Android Applications, Ph.D Dissetation 2015
 + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
