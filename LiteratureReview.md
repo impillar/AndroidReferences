@@ -248,6 +248,7 @@
 + *droid: Assessment and Evaluation of Android Application Analysis Tools, CSUR 2016 (tool: *droid)
 + Toward Engineering a Secure Android Ecosystem: A Survey of Existing Techniques, CSUR 2016
 + The Evolution of Android Malware and Android Analysis Techniques, CSUR 2017
++ Understanding Android App Piggybacking: A Systematic Study of Malicious Code Grafting, TIFS 2017
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
