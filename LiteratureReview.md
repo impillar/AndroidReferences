@@ -42,6 +42,8 @@
   + A SEALANT for Inter-App Security Holes in Android, ICSE 2017 (tool: SEALANT)
   + Adaptive Unpacking of Android Apps, ICSE 2017
   + An Efficient, Robust, and Scalable Approach for Analyzing Interacting Android Apps, ICSE 2017
+  + LeakSemantic: Identifying Abnormal Sensitive Network Transmissions in Mobile Applications, arxiv 2017 (tool: LeakSemantic)
+
  
 + Dynamic Analysis
 
@@ -57,6 +59,7 @@
   + Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques, NDSS 2016 (tool: HARVESTER)
   + IntelliDroid: A Targeted Input Generator for the Dynamic Analysis of Android Malware, NDSS 2016
   + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (tool: DroidScribe)
+  + LeakSemantic: Identifying Abnormal Sensitive Network Transmissions in Mobile Applications, arxiv 2017 (tool: LeakSemantic)
 
 + Machine Learning
   + Crowdroid: Behavior-based Malware Detection System for Android, SPSM 2011
@@ -82,6 +85,7 @@
   + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (tool: DroidScribe)
   + LUNA: Quantifying and Leveraging Uncertainy in Android Malware Analysis through Bayesian Machine Learning, Euro S&P 2017 (tool: LUNA)
   + Dark Hazard: Learning-based, Large-Scale Discovery of Hidden Sensitive Operations in Android Apps, NDSS 2017
+  + LeakSemantic: Identifying Abnormal Sensitive Network Transmissions in Mobile Applications, arxiv 2017 (tool: LeakSemantic)
 
 + Fingerprint & matching
 
