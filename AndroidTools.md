@@ -50,6 +50,8 @@
 + [Drozer](https://www.mwrinfosecurity.com/products/drozer/) – Drozer allows you to search for security vulnerabilities in apps and devices by assuming the role of an app and interacting with the Dalvik VM, other apps’ IPC endpoints and the underlying OS.
 + [TaintDroid](http://appanalysis.org/) – Tracking how apps use sensitive information required integrating our software into the Android platform at a low level.
 + [Xposed Framework](http://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053)
++ [Inspeckage](http://ac-pm.github.io/Inspeckage/) - Inspeckage is a tool developed to offer dynamic analysis of Android applications. By applying hooks to functions of the Android API, Inspeckage will help you understand what an Android application is doing at runtime.
+
 
 ##Reverse Engineering Tools
 
