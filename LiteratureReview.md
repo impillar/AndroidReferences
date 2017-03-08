@@ -305,6 +305,8 @@
 + Detecting Energy Bugs and Hotspots in Mobile Apps, FSE 2014
 + Retrofitting Concurrency for Android Applications Through Refactoring, FSE 2014 (tool: Asynchronizer)
 + Characterizing and Detecting Performance Bugs for Smartphone Applications, ICSE 2014 (tool: PerfChecker)
++ Comparing Energy Profilers for Android, 21st Twente Student Conference on IT 2014
++ Characterizing and Detecting Performance Bugs for Smartphone Applications, ICSE 2014
 + Optimizing Energy of HTTP Requests in Android Applications, DeMobile 2015
 + EnTrack: A System Facility for Analyzing Energy Consumption of Android System Services, UbiComp 2015
 + Runtime Verification of Expected Energy Consumption in Smartphones, Model Checking Software 2015
