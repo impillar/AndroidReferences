@@ -300,13 +300,17 @@
 + Fine-Grained Power Modeling for Smartphones Using System Call Tracing, EuroSys 2011
 + Where is the energy spent inside my app? Fine Grained Energy Accounting on Smartphones with Eprof, EuroSys 2012
 + eDoctor: Automatically Diagnosing Abnormal Battery Drain Issues on Smartphones, USENIX 2013(tool: eDoctor)
++ Calculating Source Line Level Energy Information for Android Applications, ISSTA 2013 (tool: vLens)
 + GreenDroid: Automated Diagnosis of Energy Inefficiency for Smartphone Applications, TSE 2014
 + Responsiveness Analysis Tool for Android Applications, DeMobile 2014
 + Detecting Energy Bugs and Hotspots in Mobile Apps, FSE 2014
 + Retrofitting Concurrency for Android Applications Through Refactoring, FSE 2014 (tool: Asynchronizer)
 + Characterizing and Detecting Performance Bugs for Smartphone Applications, ICSE 2014 (tool: PerfChecker)
++ Making Web Applications More Energy Efficient for OLED Smartphones, ICSE 2014 (tool: Nyx)
 + Comparing Energy Profilers for Android, 21st Twente Student Conference on IT 2014
 + Characterizing and Detecting Performance Bugs for Smartphone Applications, ICSE 2014
++ Mining Energy-Greedy API Usage Patterns in Android Apps: An Empirical Study, MSR 2014
++ An Empirical Study of the Energy Consumption of Android Applications, ICSME 2014
 + Optimizing Energy of HTTP Requests in Android Applications, DeMobile 2015
 + EnTrack: A System Facility for Analyzing Energy Consumption of Android System Services, UbiComp 2015
 + Runtime Verification of Expected Energy Consumption in Smartphones, Model Checking Software 2015
@@ -315,6 +319,8 @@
 + Energy-Aware Test-Suite Minimization for Android Apps, ISSTA 2016
 + Automatically Verifying and Reproducing Event-based Races in Android Apps, ISSTA 2016
 + Battery-Aware Mobile Data Service, TMC 2016 (tool: B-MODS)
++ Automated Energy Optimization of HTTP Requests for Mobile Applications, ICSE 2016 (tool: Bouquet)
++ DefDroid: Towards a More Defensive Mobile OS Against Disruptive App Behavior, MobySys 2016 (tool: DefDroid)
 + Battery State-of-Health Estimation for Mobile Devices, ICCPS 2017 (tool: V-BASH)
 
 ## Android GUI Analysis
@@ -323,10 +329,12 @@
 + Finding Errors in Multi-threaded GUI Applications, ISSTA 2012
 + A Grey-Box Approach for Automated GUI-model Generation of Mobile Applications, FASE 2013  
 + Guided GUI Testing of Android Apps with Minimal Restart and Approximate learning, OOPSLA 2013 (tool: Swift-Hand)
++ Estimating Mobile Application Energy Consumption using Program Analysis, ICSE 2013 (tool: eLens)
 + Static Window Transition Graphs for Android, ASE 2015
 + What the App is That? Deception and Countermeasures in the Android User Interface, S&P 2015
 + GUITAR: Piecing Together Android App GUIs from Memory Images, CCS 2015
 + Static Analysis of GUI Behavior in Android Applications, Ph.D Dissetation 2015
++ Detecting Display Energy Hotspots in Android Apps, ICST 2015 (tool: dLens)
 + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
 + Attacks and Defence on Android Free Floating Windows, AsiaCCS 2016
 + Automated Model-Based Android GUI Testing using Multi-level GUI Comparison Criteria, ASE 2016
@@ -354,6 +362,7 @@
  + Intent Fuzzer: Crafting Intents of Death, WODA 2014
  + Fuzzing Android System Services by Binder Call. (url: https://www.blackhat.com/docs/us-15/materials/us-15-Gong-Fuzzing-Android-System-Services-By-BinderCall-To-Escalate-Privilege.pdf.)
  + BinderCracker: Assessing the Robustness of Android System Services, arxiv 2016 (tool: BinderCracker)
+ + Making Malory Behave Maliciously: Targeted Fuzzing of Android Execution Environments, ICSE 2017 (tool: FuzzDroid)
 
 ## Analysis of Hybrid Android App
  + Breaking and Fixing Origin-Based Access Control in Hybrid Web/Mobile Application Frameworks, NDSS 2014 (tool: NOFRAK)
@@ -365,6 +374,7 @@
  + HybriDroid: Static Analysis Framework for Android Hybrid Applications, ASE 2016
  + Fine-Grained Access Control for HTML5-Based Mobile Applications in Android, CCS 2016
  + Draco: A System for Uniform and Fine-grained Access Control for Web Code on Android, CCS 2016 (tool: Draco)
+
 ## Android Compatibility Issues
  + Understanding Android Fragmentation with Topic Analysis of Vendor-Specific Bugs, WCRE 2012
  + Taming Android Fragmentation: Characterizing and Detecting Compatibility Issues for Android Apps, ASE 2016 (tool: FicFinder)
@@ -404,4 +414,7 @@
  + Analysis and Testing of Notifications in Android Wear Applications, ICSE 2017 
  
 ## Knowledge Mining
-
++ An Empirical Analysis of Bug Reports and Bug Fixing in Open Source Android Apps, CSMR 2013 (tool: )
++ Works For Me! Characterizing Non-reproducible Bug Reports, MSR 2014
++ A Cross-platform Analysis of Bugs and Bug-fixing in Open Source Projects: Desktop vs. Android vs. iOS, EASE 2015
++ An Empirical Study on Bug Reports of Android 3rd Party Libraries, 
