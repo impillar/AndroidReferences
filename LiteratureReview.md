@@ -304,6 +304,7 @@
 + GreenDroid: Automated Diagnosis of Energy Inefficiency for Smartphone Applications, TSE 2014
 + Responsiveness Analysis Tool for Android Applications, DeMobile 2014
 + Detecting Energy Bugs and Hotspots in Mobile Apps, FSE 2014
++ SunCat: Helping Developers Understand and Predict Performance Problems in Smartphone Applications, ISSTA 2014 (tool: SunCat)
 + Retrofitting Concurrency for Android Applications Through Refactoring, FSE 2014 (tool: Asynchronizer)
 + Characterizing and Detecting Performance Bugs for Smartphone Applications, ICSE 2014 (tool: PerfChecker)
 + Making Web Applications More Energy Efficient for OLED Smartphones, ICSE 2014 (tool: Nyx)
@@ -321,6 +322,8 @@
 + Battery-Aware Mobile Data Service, TMC 2016 (tool: B-MODS)
 + Automated Energy Optimization of HTTP Requests for Mobile Applications, ICSE 2016 (tool: Bouquet)
 + DefDroid: Towards a More Defensive Mobile OS Against Disruptive App Behavior, MobySys 2016 (tool: DefDroid)
++ DiagDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions, FSE 2016 (tool: DiagDroid)
++ Mining Test Repositories for Automatic Detection of UI Performance Regressions in Android Apps (tool: DUNE)
 + Battery State-of-Health Estimation for Mobile Devices, ICCPS 2017 (tool: V-BASH)
 
 ## Android GUI Analysis
