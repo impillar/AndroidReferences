@@ -417,7 +417,7 @@
  + Analysis and Testing of Notifications in Android Wear Applications, ICSE 2017 
  
 ## Knowledge Mining
-+ An Empirical Analysis of Bug Reports and Bug Fixing in Open Source Android Apps, CSMR 2013 (tool: )
++ An Empirical Analysis of Bug Reports and Bug Fixing in Open Source Android Apps, CSMR 2013
 + Works For Me! Characterizing Non-reproducible Bug Reports, MSR 2014
 + A Cross-platform Analysis of Bugs and Bug-fixing in Open Source Projects: Desktop vs. Android vs. iOS, EASE 2015
-+ An Empirical Study on Bug Reports of Android 3rd Party Libraries, 
++ An Empirical Study on Bug Reports of Android 3rd Party Libraries
