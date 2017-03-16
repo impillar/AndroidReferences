@@ -317,6 +317,7 @@
 + Runtime Verification of Expected Energy Consumption in Smartphones, Model Checking Software 2015
 + How Developers Detect and Fix Performance Bottlenecks in Android Apps, ICSME 2015
 + PersisDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions, arXiv 2015
++ CLAPP: Characterizing Loops in Android Applications, FSE 2015 (tool: CLAPP)
 + Energy-Aware Test-Suite Minimization for Android Apps, ISSTA 2016
 + Automatically Verifying and Reproducing Event-based Races in Android Apps, ISSTA 2016
 + Battery-Aware Mobile Data Service, TMC 2016 (tool: B-MODS)
