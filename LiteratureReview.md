@@ -103,6 +103,7 @@
   + Checking Interation-Based Declassification Policies for Android Using Symbolic Execution, ESORICS 2015 (tool: ClickRelease)
   + HornDroid: Practical and Sound Static Analysis of Android Applications by SMT Solving, Euro S&P 2016
   + Practical, Formal Synthesis and Autonomic Enforcement of Security Policies for Android, DSN 2016
+  + Towards Model Checking Android Applications, TSE 2017 (tool: DroidPF)
 
 + Realtime Monitoring
 
