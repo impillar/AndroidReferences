@@ -404,6 +404,8 @@
   
 ## Financial App Analysis
  + DroydSeuss: A Mobile Banking Trojan Tracker, TechReport? 2014 (tool: DroydSeuss)
+ + An Experimental Evaluation of Vulnerability of Branchless Banking Application in Android Environment, International Journal of Emerging Research in Management & Technology, 2016
+ + Repackaging Attack on Android Banking Applications and Its Countermeasures, Wireless Personal Communications
  
 ## Race Condition Analysis
  + Effective Race Detection for Event-Driven Programs, OOPSLA 2013 (tool: EventRacer)
