@@ -129,6 +129,7 @@
   + Energy-Aware Test-Suite Minimization for Android Apps, ISSTA 2016
   + Lifecycle and Event-based Testing for Android Applications, Ph.D Dissertation (author: GRAZIUSSI, SIMONE)
   + Automatic Input Generation for Mobile Testing, ICSE 2017
+  + Guided, Stochastic Model-Based GUI Testing of Android Apps, FSE 2017 (tool: Stoat)
 
 ## Native Code Analysis
  + Finding Bugs in Java Native Interface Programs, ISSTA 2008
@@ -266,6 +267,7 @@
 + Application Collusion Attack on the Permission-based Security Model and its Implications for Modern Smartphone Systems, REPORT 2011
 + A Stealthy and Context-Aware Sound Trojan for Smartphones, NDSS 2011
 + New Privacy Issues in Mobile Telephony: Fix and Verification, CCS 2012
++ Why Eve and Mallory love Android: An analysis of Android SSL (in) security, CCS 2012
 + UI Redressing Attacks on Android Devices, US BlackHat 2012 (vul: tapjacking)
 + Upgrading Your Android, Elevating My Malware: Priviledge Escalation Through Mobile OS Updating, S&P 2014
 + The Peril of Fragmentation: Security Hazards in Android Device Driver Customizations, S&P 2014
@@ -293,6 +295,7 @@
 + Android ION Hazard: the Curse of Customizable Memory Management System, CCS 2016
 + The Misuse of Android Unix Domain Sockets and Security Implications, CCS 2016
 + Show Me the Money! Finding Flawed Implementations of Third-party In-app Payment in Android Apps, NDSS 2017
++ Semi-Automated Discovery of Server-Based Information Oversharing Vulnerabilities in Android Applications, ISSTA 2017
 
 ## Performance & Energy Analysis
 + Accurate Online Power Estimation and Automatic Battery Behavior Based Power Model Generation for Smartphones, CODES+ISSS 2010(tool: PowerTutor)
