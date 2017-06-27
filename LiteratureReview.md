@@ -428,3 +428,12 @@
 + Works For Me! Characterizing Non-reproducible Bug Reports, MSR 2014
 + A Cross-platform Analysis of Bugs and Bug-fixing in Open Source Projects: Desktop vs. Android vs. iOS, EASE 2015
 + An Empirical Study on Bug Reports of Android 3rd Party Libraries
+
+## Data Protection
++ Understanding Users’ Requirements for Data Protection in Smartphones, ICDEW 2012
++ Cashtags: Protecting the Input and Display of Sensitive Data, USENIX Security 2015 (tool: Cashtags)
++ SUPOR: Precise and Scalable Sensitive User Input Detection for Android Apps, USENIX Security 2015 (tool: SUPOR)
++ UIPicker: User-Input Privacy Identification in Mobile Applications, USENIX Security 2015 (tool: UIPicker)
++ AppShell: Making Data Protection Practical for Lost or Stolen Android Devices, NOMS 2016 (tool: AppShell)
++ SchrodinText: Strong Protection of Sensitive Textual Content of Mobile Applications, MobiSys 2017 (tool: SchrodinText)
+
