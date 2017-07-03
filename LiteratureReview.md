@@ -202,6 +202,7 @@
 + Automated Partitioning of Android Applications for Trusted Execution Environments, ICSE 2016
 + FLEX: A Flexible Code Authentication Framework for Delegating Mobile App Customization, AsiaCCS 2016
 + WindowGuard: Systematic Protection of GUI Security in Android, NDSS 2017 (tool: WindowGuard)
++ Adaptive Android Kernel Live Patching, USENIX Security 2017
 
 ## Android Permission System
 + A Formal Model to Analyze the Permission Authorization and Enforcement in the Android Framework, IEEE International Conference on Social Computing/IEEE International Conferene on Privacy, Security, Risk and Turst 2010
@@ -296,6 +297,8 @@
 + The Misuse of Android Unix Domain Sockets and Security Implications, CCS 2016
 + Show Me the Money! Finding Flawed Implementations of Third-party In-app Payment in Android Apps, NDSS 2017
 + Semi-Automated Discovery of Server-Based Information Oversharing Vulnerabilities in Android Applications, ISSTA 2017
++ BootStomp: On the Security of Bootloaders in Mobile Devices, USENIX Security 2017 (tool: BootStomp)
++ Detecting Android Root Exploits by Learning from Root Providers, USENIX Security 2017
 
 ## Performance & Energy Analysis
 + Accurate Online Power Estimation and Automatic Battery Behavior Based Power Model Generation for Smartphones, CODES+ISSS 2010(tool: PowerTutor)
@@ -371,6 +374,7 @@
  + Fuzzing Android System Services by Binder Call. (url: https://www.blackhat.com/docs/us-15/materials/us-15-Gong-Fuzzing-Android-System-Services-By-BinderCall-To-Escalate-Privilege.pdf.)
  + BinderCracker: Assessing the Robustness of Android System Services, arxiv 2016 (tool: BinderCracker)
  + Making Malory Behave Maliciously: Targeted Fuzzing of Android Execution Environments, ICSE 2017 (tool: FuzzDroid)
+ + kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels, USENIX Security 2017 (tool: kAFL)
 
 ## Analysis of Hybrid Android App
  + Breaking and Fixing Origin-Based Access Control in Hybrid Web/Mobile Application Frameworks, NDSS 2014 (tool: NOFRAK)
