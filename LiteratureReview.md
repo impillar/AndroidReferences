@@ -316,7 +316,6 @@
 + Characterizing and Detecting Performance Bugs for Smartphone Applications, ICSE 2014 (tool: PerfChecker)
 + Making Web Applications More Energy Efficient for OLED Smartphones, ICSE 2014 (tool: Nyx)
 + Comparing Energy Profilers for Android, 21st Twente Student Conference on IT 2014
-+ Characterizing and Detecting Performance Bugs for Smartphone Applications, ICSE 2014
 + Mining Energy-Greedy API Usage Patterns in Android Apps: An Empirical Study, MSR 2014
 + An Empirical Study of the Energy Consumption of Android Applications, ICSME 2014
 + Optimizing Energy of HTTP Requests in Android Applications, DeMobile 2015
