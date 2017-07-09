@@ -130,6 +130,9 @@
   + Lifecycle and Event-based Testing for Android Applications, Ph.D Dissertation (author: GRAZIUSSI, SIMONE)
   + Automatic Input Generation for Mobile Testing, ICSE 2017
   + Guided, Stochastic Model-Based GUI Testing of Android Apps, FSE 2017 (tool: Stoat)
+  + µDroid: An Energy-Aware Mutation Testing Framework for Android, FSE 2017 (tool: µDroid)
+  + PATDroid: Permission-Aware GUI Testing of Android, FSE 2017 (tool: PATDroid)
+  + Enabling Mutation Testing for Android Apps, FSE 2017
 
 ## Native Code Analysis
  + Finding Bugs in Java Native Interface Programs, ISSTA 2008
@@ -261,6 +264,7 @@
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
 + Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016 (tool: Mystique)
 + Auditing Anti-Malware Tools by Evolving Android Malware and Dynamic Loading Technique, TIFS 2017 (tool: Mystique-S)
++ Automatic Generation of Inter-Component Communication Exploits for Android Applications, FSE 2017
 
 ## New vulnerabilities & Attacks
 + Fuzzing the Phone in Your Phone, Black Hat USA 2009
@@ -299,6 +303,7 @@
 + Semi-Automated Discovery of Server-Based Information Oversharing Vulnerabilities in Android Applications, ISSTA 2017
 + BootStomp: On the Security of Bootloaders in Mobile Devices, USENIX Security 2017 (tool: BootStomp)
 + Detecting Android Root Exploits by Learning from Root Providers, USENIX Security 2017
++ An Autonomic and Permissionless Android Covert Channel, WiSec 2017
 
 ## Performance & Energy Analysis
 + Accurate Online Power Estimation and Automatic Battery Behavior Based Power Model Generation for Smartphones, CODES+ISSS 2010(tool: PowerTutor)
@@ -348,6 +353,7 @@
 + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
 + Attacks and Defence on Android Free Floating Windows, AsiaCCS 2016
 + Automated Model-Based Android GUI Testing using Multi-level GUI Comparison Criteria, ASE 2016
++ PATDroid: Permission-Aware GUI Testing of Android, FSE 2017 (tool: PATDroid)
 
 ## Forensic Analysis
 + WHYPER: Towards Automating Risk Assessment of Mobile Applications, USENIX Security 2013
@@ -439,4 +445,6 @@
 + UIPicker: User-Input Privacy Identification in Mobile Applications, USENIX Security 2015 (tool: UIPicker)
 + AppShell: Making Data Protection Practical for Lost or Stolen Android Devices, NOMS 2016 (tool: AppShell)
 + SchrodinText: Strong Protection of Sensitive Textual Content of Mobile Applications, MobiSys 2017 (tool: SchrodinText)
++ UiRef: Analysis of Sensitive User Inputs in Android Applications, WiSec 2017 (tool: UiRef)
++ Using Hover to Compromise the Confidentiality of User Input on Android, WiSec 2017 (tool: Hoover)
 
