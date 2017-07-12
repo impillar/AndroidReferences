@@ -43,7 +43,8 @@
   + Adaptive Unpacking of Android Apps, ICSE 2017
   + An Efficient, Robust, and Scalable Approach for Analyzing Interacting Android Apps, ICSE 2017 (tool: JITANA)
   + LeakSemantic: Identifying Abnormal Sensitive Network Transmissions in Mobile Applications, arxiv 2017 (tool: LeakSemantic)
-
+  + TriFlow: Triaging Android Applications using Speculative Information Flows, AsiaCCS 2017 (tool: TriFlow)
+  + Collusive Data Leak and More: Large-scale Threat Analysis of Inter-app Communications, AsiaCCS 2017 (tool: DIALDroid)
  
 + Dynamic Analysis
 
@@ -60,6 +61,7 @@
   + IntelliDroid: A Targeted Input Generator for the Dynamic Analysis of Android Malware, NDSS 2016
   + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (tool: DroidScribe)
   + LeakSemantic: Identifying Abnormal Sensitive Network Transmissions in Mobile Applications, arxiv 2017 (tool: LeakSemantic)
+  + DroidForensics: Accurate Reconstruction of Android Attacks via Multi-layer Forensic Logging, AsiaCCS 2017 (tool: DroidForensics)
 
 + Machine Learning
   + Crowdroid: Behavior-based Malware Detection System for Android, SPSM 2011
@@ -206,6 +208,7 @@
 + FLEX: A Flexible Code Authentication Framework for Delegating Mobile App Customization, AsiaCCS 2016
 + WindowGuard: Systematic Protection of GUI Security in Android, NDSS 2017 (tool: WindowGuard)
 + Adaptive Android Kernel Live Patching, USENIX Security 2017
++ SPOKE: Scalable Knowledge Collection and Attack Surface Analysis of Access Control Policy for Security Enhanced Android, AsiaCCS 2017
 
 ## Android Permission System
 + A Formal Model to Analyze the Permission Authorization and Enforcement in the Android Framework, IEEE International Conference on Social Computing/IEEE International Conferene on Privacy, Security, Risk and Turst 2010
@@ -259,12 +262,15 @@
 + Toward Engineering a Secure Android Ecosystem: A Survey of Existing Techniques, CSUR 2016
 + The Evolution of Android Malware and Android Analysis Techniques, CSUR 2017
 + Understanding Android App Piggybacking: A Systematic Study of Malicious Code Grafting, TIFS 2017
++ To Update or Not to Update: Insights From a Two-Year Study of Android App Evolution, AsiaCCS 2017
+
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
 + Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016 (tool: Mystique)
 + Auditing Anti-Malware Tools by Evolving Android Malware and Dynamic Loading Technique, TIFS 2017 (tool: Mystique-S)
 + Automatic Generation of Inter-Component Communication Exploits for Android Applications, FSE 2017
++ DroidPill: Pwn Your Daily-Use Apps, AsiaCCS 2017 (tool: DroidPill)
 
 ## New vulnerabilities & Attacks
 + Fuzzing the Phone in Your Phone, Black Hat USA 2009
@@ -304,6 +310,9 @@
 + BootStomp: On the Security of Bootloaders in Mobile Devices, USENIX Security 2017 (tool: BootStomp)
 + Detecting Android Root Exploits by Learning from Root Providers, USENIX Security 2017
 + An Autonomic and Permissionless Android Covert Channel, WiSec 2017
++ DroidPill: Pwn Your Daily-Use Apps, AsiaCCS 2017 (tool: DroidPill)
++ Secure Integration of Web Content and Applications on Commodity Mobile Operating Systems, AsiaCCS 2017 (tool: WIREFrame/WIRE)
+
 
 ## Performance & Energy Analysis
 + Accurate Online Power Estimation and Automatic Battery Behavior Based Power Model Generation for Smartphones, CODES+ISSS 2010(tool: PowerTutor)
@@ -337,6 +346,7 @@
 + DiagDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions, FSE 2016 (tool: DiagDroid)
 + Mining Test Repositories for Automatic Detection of UI Performance Regressions in Android Apps (tool: DUNE)
 + Battery State-of-Health Estimation for Mobile Devices, ICCPS 2017 (tool: V-BASH)
++ Hit by the Bus: QoS Degradation Attack on Android, AsiaCCS 2017 
 
 ## Android GUI Analysis
 + Automating GUI Testing for Android Applications, AST 2011
@@ -366,6 +376,8 @@
 + AVclass: A Tool for Massive Malware Labeling, RAID 2016 (tool: AVClass)
 + Automated Analysis of Privacy Requirements for Mobile Apps, NDSS 2017
 + Recommending and Localizing Change Requests for Mobile Apps based on User Reviews, ICSE 2017
++ Toward Detecting Collusive Ranking Manipulation Attackers in Mobile App Markets, AsiaCCS 2017
++ Boosting the Guessing Attack Performance on Android Lock Patterns with Smudge Attacks, AsiaCCS 2017
 
 ## Obfuscation & Evasion Techniques
  + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
@@ -415,6 +427,7 @@
  + DroydSeuss: A Mobile Banking Trojan Tracker, TechReport? 2014 (tool: DroydSeuss)
  + An Experimental Evaluation of Vulnerability of Branchless Banking Application in Android Environment, International Journal of Emerging Research in Management & Technology, 2016
  + Repackaging Attack on Android Banking Applications and Its Countermeasures, Wireless Personal Communications
+ + Breaking Ad-hoc Runtime Integrity Protection Mechanisms in Android Financial Apps, AsiaCCS 2017 (tool: MERCIDroid)
  
 ## Race Condition Analysis
  + Effective Race Detection for Event-Driven Programs, OOPSLA 2013 (tool: EventRacer)
