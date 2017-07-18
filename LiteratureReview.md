@@ -36,6 +36,7 @@
   + Semantic Modelling of Android Malware for Effective Malware Comprehension, Detection and Classification, ISSTA 2016 (tool: SMART)
   + DroidRA: Taming Reflection to Support Whole-Program Analysis of Android Apps, ISSTA 2016 (tool: DroidRA)
   + TaintART: A Practical Multi-level Information-Flow Tracking System for Android RunTime, CCS 2016 (tool: TaintART)
+  + ICCDetector: ICC-Based Malware Detection on Android, TIFS 2016 (tool: ICCDetector)
   + Software Architectural Principles in Contemporary Mobile Software: from Conception to Practice, Journal of Systems and Software, 2016
   + Obfuscation-Resilient Privacy Leak Detection for Mobile Apps Through Differential Analysis, NDSS 2017
   + MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models, NDSS 2017 (tool: MaMaDroid)
