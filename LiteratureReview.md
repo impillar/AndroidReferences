@@ -156,6 +156,7 @@
 + Achieving Accuracy and Scalability Simultaneously in Detecting Application Clones on Android Markets, ICSE 2014
 + ViewDoird: Towards Obfuscation-Resilient Mobile Application Repackaging Detection, WiSec 2014
 + WuKong: A Scalable and Accurate Two-Phase Approach to Android App Clone Detection, ISSTA 2015
++ CodeMatch: Obfuscation Won’t Conceal Your Repackaged App, FSE 2017 (tool: CodeMatch)
 
 ## Network Traffic Analysis
 + NetworkProfiler: Towards Automatic Fingerprinting of Android Apps, INFOCOM 2013
