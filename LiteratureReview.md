@@ -377,10 +377,14 @@
 + AUTOREB: Automatically Understanding the Review-to-Behavior Fidelity in Android Applications, CCS 2015 (tool: AUTOREB)
 + On the Lack of Consensus in Anti-Virus Decisions Metrics and Insights on Building Ground Truths of Android Malware with VirusTotal, DIMVA 2016 
 + AVclass: A Tool for Massive Malware Labeling, RAID 2016 (tool: AVClass)
++ Revisiting the Description-to-Behavior Fidelity in Android Applications, SANER 2016 (tool: TAPVerifier)
++ Can We Trust the Privacy Policies of Android Apps? DSN 2016 (tool: PPChecker)
++ Checking App User Interfaces against App Descriptions, WAMA 2016
 + Automated Analysis of Privacy Requirements for Mobile Apps, NDSS 2017
 + Recommending and Localizing Change Requests for Mobile Apps based on User Reviews, ICSE 2017
 + Toward Detecting Collusive Ranking Manipulation Attackers in Mobile App Markets, AsiaCCS 2017
 + Boosting the Guessing Attack Performance on Android Lock Patterns with Smudge Attacks, AsiaCCS 2017
++ Enhancing the Description-to-Behavior Fidelity in Android Apps with Privacy Policy, TSE 2017 (tool: TAPVerifier)
 
 ## Obfuscation & Evasion Techniques
  + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
