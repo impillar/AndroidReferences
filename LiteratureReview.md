@@ -257,6 +257,7 @@
 + A Taxonomy of Privilege Escalation Attacks in Android Applications, International Journal of Security and Networks 2014
 + A Machine-learning Approach for Classifying and Categorizing Android Sources and Sinks, NDSS 2014
 + Andrubis -- 1,000,000 Apps Later: A View on Current Android Malware Behaviors, BADGERS 2014 (tool: Andrubis)
++ DroidRay: A Security Evaluation System for Customized Android Firmwares, AsiaCCS 2014 (tool: DroidRay)
 + Securing Android: A Survey, Taxonomy, and Challenges, CSUR 2015
 + Collaborative Security: A Survey and Taxonomy, CSUR 2015
 + Android Malware Static Analysis Techniques, CISR 2015
@@ -291,6 +292,7 @@
 + From Zygote to Morula: Fortifying Weakened ASLR on Android, S&P 2014
 + Peeking into Your App without Actually Seeing It: UI State Inference and Novel Android Attacks, USENIX Security 2014
 + Gyrophone: Recognizing Speech From Gyroscope Signals, USENIX Security 2014
++ Mayhem in the Push Clouds: Understanding and Mitigating Security Hazards in Mobile Push-Messaging Services, CCS 2014
 + Execute This! Analyzing Unsafe and Malicious Dynamic Code Loading in Android Applications, NDSS 2014
 + Divide-and-Conquer: Why Android Malware cannot be Stopped, ARES 2014 (tool:Sand-Finger)
 + Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware, EuroSec 2014
@@ -375,6 +377,7 @@
 + WHYPER: Towards Automating Risk Assessment of Mobile Applications, USENIX Security 2013
 + Checking App Behavior Against App Descriptions, ICSE 2014 (tool: CHABADA)
 + A Forensic Analysis of Android Malware - How is Malware Written and How it Could be Detected? COMPSAC 2014
++ Hey, NSA: Stay Away from my Market! Future Proofing App Markets against Powerful Attackers, CCS 2014
 + VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images, CCS 2015
 + Towards Automatic Generation of Security-Centric Descriptions for Android Apps, CCS 2015 (tool: DESCRIBEME)
 + AUTOREB: Automatically Understanding the Review-to-Behavior Fidelity in Android Applications, CCS 2015 (tool: AUTOREB)
