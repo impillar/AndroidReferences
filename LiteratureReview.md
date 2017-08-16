@@ -47,6 +47,8 @@
   + LeakSemantic: Identifying Abnormal Sensitive Network Transmissions in Mobile Applications, arxiv 2017 (tool: LeakSemantic)
   + TriFlow: Triaging Android Applications using Speculative Information Flows, AsiaCCS 2017 (tool: TriFlow)
   + Collusive Data Leak and More: Large-scale Threat Analysis of Inter-app Communications, AsiaCCS 2017 (tool: DIALDroid)
+  + A Monte Carlo Tree Search approach to Active Malware Analysis, IJCAI 2017
+  + Android Malware Clustering through Malicious Payload Mining, RAID 2017
  
 + Dynamic Analysis
 
