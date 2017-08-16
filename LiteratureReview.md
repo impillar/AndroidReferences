@@ -89,7 +89,8 @@
   + DroidScribe: Classifying Android Malware Based on Runtime Behavior, MoST 2016 (tool: DroidScribe)
   + LUNA: Quantifying and Leveraging Uncertainy in Android Malware Analysis through Bayesian Machine Learning, Euro S&P 2017 (tool: LUNA)
   + Dark Hazard: Learning-based, Large-Scale Discovery of Hidden Sensitive Operations in Android Apps, NDSS 2017
-  + LeakSemantic: Identifying Abnormal Sensitive Network Transmissions in Mobile Applications, arxiv 2017 (tool: LeakSemantic)
+  + LeakSemantic: Identifying Abnormal Sensitive Network Transmissions in Mobile Applications, arxiv 2017 (tool: LeakSemantic
+  + HinDroid: An Intelligent Android Malware Detection System Based on Structured Heterogeneous Information Network, KDD 2017 (tool: HinDroid)
 
 + Fingerprint & matching
 
