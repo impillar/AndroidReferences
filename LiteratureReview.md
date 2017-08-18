@@ -464,8 +464,11 @@
 + A Cross-platform Analysis of Bugs and Bug-fixing in Open Source Projects: Desktop vs. Android vs. iOS, EASE 2015
 + An Empirical Study on Bug Reports of Android 3rd Party Libraries
 
-## Data Protection
+## Data & Code Protection
 + Understanding Users’ Requirements for Data Protection in Smartphones, ICDEW 2012
++ Code Protection in Android, MASTER Dissertation 2012
++ AppSpear: Bytecode Decrypting and DEX Reassembling for Packed Android Malware, RAID 2015 (tool: AppSpear)
++ DexHunter: Toward Extracting Hidden Code from Packed Android Applications, ESORICS 2015 (tool: DexHunter)
 + Cashtags: Protecting the Input and Display of Sensitive Data, USENIX Security 2015 (tool: Cashtags)
 + SUPOR: Precise and Scalable Sensitive User Input Detection for Android Apps, USENIX Security 2015 (tool: SUPOR)
 + UIPicker: User-Input Privacy Identification in Mobile Applications, USENIX Security 2015 (tool: UIPicker)
@@ -473,4 +476,6 @@
 + SchrodinText: Strong Protection of Sensitive Textual Content of Mobile Applications, MobiSys 2017 (tool: SchrodinText)
 + UiRef: Analysis of Sensitive User Inputs in Android Applications, WiSec 2017 (tool: UiRef)
 + Using Hover to Compromise the Confidentiality of User Input on Android, WiSec 2017 (tool: Hoover)
++ Adaptive Unpacking of Android Apps, ICSE 2017
++ Android Code Protection via Obfuscation Techniques: Past, Present and Future Directions, arXiv 2017
 
