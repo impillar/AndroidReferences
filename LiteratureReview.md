@@ -42,7 +42,7 @@
   + Obfuscation-Resilient Privacy Leak Detection for Mobile Apps Through Differential Analysis, NDSS 2017
   + MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models, NDSS 2017 (tool: MaMaDroid)
   + A SEALANT for Inter-App Security Holes in Android, ICSE 2017 (tool: SEALANT)
-  + Adaptive Unpacking of Android Apps, ICSE 2017
+  + Adaptive Unpacking of Android Apps, ICSE 2017 (tool: PackerGrind)
   + An Efficient, Robust, and Scalable Approach for Analyzing Interacting Android Apps, ICSE 2017 (tool: JITANA)
   + LeakSemantic: Identifying Abnormal Sensitive Network Transmissions in Mobile Applications, arxiv 2017 (tool: LeakSemantic)
   + TriFlow: Triaging Android Applications using Speculative Information Flows, AsiaCCS 2017 (tool: TriFlow)
