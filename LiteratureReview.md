@@ -139,7 +139,7 @@
   + Guided, Stochastic Model-Based GUI Testing of Android Apps, FSE 2017 (tool: Stoat)
   + µDroid: An Energy-Aware Mutation Testing Framework for Android, FSE 2017 (tool: µDroid)
   + PATDroid: Permission-Aware GUI Testing of Android, FSE 2017 (tool: PATDroid)
-  + Enabling Mutation Testing for Android Apps, FSE 2017
+  + Enabling Mutation Testing for Android Apps, FSE 2017 (tool: MDroid+)
 
 ## Native Code Analysis
  + Finding Bugs in Java Native Interface Programs, ISSTA 2008
