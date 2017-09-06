@@ -276,7 +276,7 @@
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
 + Mystique: Evolving Android Malware for Auditing Anti-Malware Tools, AsiaCCS 2016 (tool: Mystique)
 + Auditing Anti-Malware Tools by Evolving Android Malware and Dynamic Loading Technique, TIFS 2017 (tool: Mystique-S)
-+ Automatic Generation of Inter-Component Communication Exploits for Android Applications, FSE 2017
++ Automatic Generation of Inter-Component Communication Exploits for Android Applications, FSE 2017 (tool: LetterBomb)
 + DroidPill: Pwn Your Daily-Use Apps, AsiaCCS 2017 (tool: DroidPill)
 
 ## New vulnerabilities & Attacks
