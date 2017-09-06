@@ -355,6 +355,8 @@
 + Mining Test Repositories for Automatic Detection of UI Performance Regressions in Android Apps (tool: DUNE)
 + Battery State-of-Health Estimation for Mobile Devices, ICCPS 2017 (tool: V-BASH)
 + Hit by the Bus: QoS Degradation Attack on Android, AsiaCCS 2017 
++ µDroid: An Energy-Aware Mutation Testing Framework for Android, FSE 2017 (tool: µDroid)
+
 
 ## Android GUI Analysis
 + Automating GUI Testing for Android Applications, AST 2011
@@ -365,7 +367,7 @@
 + Estimating Mobile Application Energy Consumption using Program Analysis, ICSE 2013 (tool: eLens)
 + Static Window Transition Graphs for Android, ASE 2015
 + What the App is That? Deception and Countermeasures in the Android User Interface, S&P 2015
-+ GUITAR: Piecing Together Android App GUIs from Memory Images, CCS 2015
++ GUITAR: Piecing Together \Android App GUIs from Memory Images, CCS 2015
 + Static Analysis of GUI Behavior in Android Applications, Ph.D Dissetation 2015
 + Detecting Display Energy Hotspots in Android Apps, ICST 2015 (tool: dLens)
 + Reducing Combinatorics in GUI Testing of Android Applications, ICSE 2016 (tool: TrimDroid)
@@ -391,6 +393,7 @@
 + Toward Detecting Collusive Ranking Manipulation Attackers in Mobile App Markets, AsiaCCS 2017
 + Boosting the Guessing Attack Performance on Android Lock Patterns with Smudge Attacks, AsiaCCS 2017
 + Enhancing the Description-to-Behavior Fidelity in Android Apps with Privacy Policy, TSE 2017 (tool: TAPVerifier)
++ OASIS: Prioritizing Static Analysis Warnings for Android Apps Based on App User Reviews, FSE 2017 (tool: OASIS)
 
 ## Obfuscation & Evasion Techniques
  + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
