@@ -320,6 +320,7 @@
 + An Autonomic and Permissionless Android Covert Channel, WiSec 2017
 + DroidPill: Pwn Your Daily-Use Apps, AsiaCCS 2017 (tool: DroidPill)
 + Secure Integration of Web Content and Applications on Commodity Mobile Operating Systems, AsiaCCS 2017 (tool: WIREFrame/WIRE)
++ JGRE: An Analysis of JNI Global Reference Exhaustion Vulnerabilities in Android, DSN 2017 (tool: JGRE)
 
 
 ## Performance & Energy Analysis
