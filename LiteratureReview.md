@@ -298,6 +298,7 @@
 + Rage Against the Virtual Machine: Hindering Dynamic Analysis of Android Malware, EuroSec 2014
 + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
 + Supor: Precise and Scalable Sensitive User Input Detection for Android Apps, USENIX 2014 (tool: Supor)
++ AppSealer: Automatic Generation of Vulnerability-Specific Patches for Preventing Component Hijacking Attacks in Android Applications, NDSS 2014 (tool: AppSealer)
 + You Shouldn't Collect My Secrets: Thwarting Sensitive Keystroke Leakage in Mobile IME Apps, USENIX Security 2015
 + COVERT: Compositional Analysis of Android Inter-App Permission Leakage, TSE 2015
 + Grab'n Run: Practical and Safe Dynamic Code Loading in Android, Ph.D Disertation 2015
@@ -321,6 +322,8 @@
 + DroidPill: Pwn Your Daily-Use Apps, AsiaCCS 2017 (tool: DroidPill)
 + Secure Integration of Web Content and Applications on Commodity Mobile Operating Systems, AsiaCCS 2017 (tool: WIREFrame/WIRE)
 + JGRE: An Analysis of JNI Global Reference Exhaustion Vulnerabilities in Android, DSN 2017 (tool: JGRE)
++ System Service Call-oriented Symbolic Execution of Android Framework with Applications to Vulnerability Discovery and Exploit Generation, MobySys 2017 (tool: Centaur)
++ Ghera: A Repository of Android App Vulnerability Benchmarks, PROMISE 2017 (tool: Ghera)
 
 
 ## Performance & Energy Analysis
