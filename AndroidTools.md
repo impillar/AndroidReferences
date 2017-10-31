@@ -30,6 +30,7 @@
 + [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser) – ApkAnalyser is a static, virtual analysis tool for examining and validating the development work of your Android app.
 + [APKInspector](https://github.com/honeynet/apkinspector/) – APKinspector is a powerful GUI tool for analysts to analyze the Android applications.
 + [DroidSafe](http://mit-pac.github.io/droidsafe-src/) – The DroidSafe project develops novel program analysis techniques to diagnose and remove malicious code from Android mobile applications. The clone is located at DroidSafe-GitHub.
++ [Crashlytics](https://try.crashlytics.com/) - Crashlytics is a powerful, yet light-weight crash reporting solution
 + [Error-Prone](https://github.com/google/error-prone) – Catch common Java mistakes as compile-time errors
 + [FindBugs](http://findbugs.sourceforge.net/) + [FindSecurityBugs](http://h3xstream.github.io/find-sec-bugs/) – FindSecurityBugs is a extension for FindBugs which include security rules for Java applications. It will find cryptography problems as well as Android specific problems.
 + [ApkCombiner](https://github.com/lilicoding/ApkCombiner) - Combining multiple Android apps to one for supporting inter-app analysis
