@@ -49,6 +49,8 @@
   + Collusive Data Leak and More: Large-scale Threat Analysis of Inter-app Communications, AsiaCCS 2017 (tool: DIALDroid)
   + A Monte Carlo Tree Search approach to Active Malware Analysis, IJCAI 2017
   + Android Malware Clustering through Malicious Payload Mining, RAID 2017
+  + Detection of Repackaged Android Malware with Code-Heterogeneity Features, TDSC 2017 (tool: DR-Droid)
+
  
 + Dynamic Analysis
 
@@ -93,6 +95,7 @@
   + Dark Hazard: Learning-based, Large-Scale Discovery of Hidden Sensitive Operations in Android Apps, NDSS 2017
   + LeakSemantic: Identifying Abnormal Sensitive Network Transmissions in Mobile Applications, arxiv 2017 (tool: LeakSemantic
   + HinDroid: An Intelligent Android Malware Detection System Based on Structured Heterogeneous Information Network, KDD 2017 (tool: HinDroid)
+  + Detection of Repackaged Android Malware with Code-Heterogeneity Features, TDSC 2017 (tool: DR-Droid)
 
 + Fingerprint & matching
 
@@ -324,6 +327,7 @@
 + JGRE: An Analysis of JNI Global Reference Exhaustion Vulnerabilities in Android, DSN 2017 (tool: JGRE)
 + System Service Call-oriented Symbolic Execution of Android Framework with Applications to Vulnerability Discovery and Exploit Generation, MobySys 2017 (tool: Centaur)
 + Ghera: A Repository of Android App Vulnerability Benchmarks, PROMISE 2017 (tool: Ghera)
++ Measuring the Insecurity of Mobile Deep Links of Android, USENIX Security 2017
 
 
 ## Performance & Energy Analysis
