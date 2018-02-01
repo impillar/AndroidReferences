@@ -143,6 +143,7 @@
   + µDroid: An Energy-Aware Mutation Testing Framework for Android, FSE 2017 (tool: µDroid)
   + PATDroid: Permission-Aware GUI Testing of Android, FSE 2017 (tool: PATDroid)
   + Enabling Mutation Testing for Android Apps, FSE 2017 (tool: MDroid+)
+  + Continuous, Evolutionary and Large-Scale: A New Perspective for Automated Mobile App Testing, ICSME 2017
   + Systematically Testing Background Services of Mobile Apps, ASE 2017 (tool: Snowdrop)
   + Crowd Intelligence Enhances Automated Mobile Testing, ASE 2017 (tool: Polariz)
   + EHBDroid: Beyond GUI Testing for Android Applications, ASE 2017 (tool: EHBDroid)
@@ -284,6 +285,7 @@
 + *droid: Assessment and Evaluation of Android Application Analysis Tools, CSUR 2016 (tool: *droid)
 + Toward Engineering a Secure Android Ecosystem: A Survey of Existing Techniques, CSUR 2016
 + The Evolution of Android Malware and Android Analysis Techniques, CSUR 2017
++ Analysis of SEAndroid Policies: Combining MAC and DAC in Android, ACSAC 2017
 + Understanding Android App Piggybacking: A Systematic Study of Malicious Code Grafting, TIFS 2017
 + To Update or Not to Update: Insights From a Two-Year Study of Android App Evolution, AsiaCCS 2017
 + Measuring the Insecurity of Mobile Deep Links of Android, USENIX Security 2017
@@ -339,6 +341,7 @@
 + Call Me Back! Attacks on System Server and System Apps in Android through Synchronous Callback, CCS 2016
 + Android ION Hazard: the Curse of Customizable Memory Management System, CCS 2016
 + The Misuse of Android Unix Domain Sockets and Security Implications, CCS 2016
++ Harvesting Inconsistent Security Configurations in Custom Android ROMs via Differential Analysis, USENIX Security 2016
 + Show Me the Money! Finding Flawed Implementations of Third-party In-app Payment in Android Apps, NDSS 2017
 + Semi-Automated Discovery of Server-Based Information Oversharing Vulnerabilities in Android Applications, ISSTA 2017
 + BootStomp: On the Security of Bootloaders in Mobile Devices, USENIX Security 2017 (tool: BootStomp)
@@ -349,6 +352,7 @@
 + JGRE: An Analysis of JNI Global Reference Exhaustion Vulnerabilities in Android, DSN 2017 (tool: JGRE)
 + System Service Call-oriented Symbolic Execution of Android Framework with Applications to Vulnerability Discovery and Exploit Generation, MobySys 2017 (tool: Centaur)
 + Ghera: A Repository of Android App Vulnerability Benchmarks, PROMISE 2017 (tool: Ghera)
++ Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews, CCS 2017
 + Removing Secrets from Android’s TLS, NDSS 2018
 + Broken Fingers: On the Usage of the Fingerprint API in Android, NDSS 2018
 + ABC: Enabling Smartphone Authentication with Built-in Camera, NDSS 2018
