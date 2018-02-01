@@ -423,6 +423,7 @@
 + WHYPER: Towards Automating Risk Assessment of Mobile Applications, USENIX Security 2013
 + Checking App Behavior Against App Descriptions, ICSE 2014 (tool: CHABADA)
 + A Forensic Analysis of Android Malware - How is Malware Written and How it Could be Detected? COMPSAC 2014
++ "What parts of your apps are loved by users?", ASE 2015 (tool: SURMiner)
 + Hey, NSA: Stay Away from my Market! Future Proofing App Markets against Powerful Attackers, CCS 2014
 + VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images, CCS 2015
 + Towards Automatic Generation of Security-Centric Descriptions for Android Apps, CCS 2015 (tool: DESCRIBEME)
