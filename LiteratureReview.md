@@ -297,6 +297,7 @@
 + EnMobile: Entity-based Characterization and Analysis of Mobile Malware, ICSE 2018
 + Large-Scale Analysis of Framework-Specific Exceptions in Android Apps, ICSE 2018
 + Self-Hiding Behavior in Android Apps: Detection and Characterization, ICSE 2018
++ A Large Scale Investigation of Obfuscation Use in Google Play, arXiv 2018
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
