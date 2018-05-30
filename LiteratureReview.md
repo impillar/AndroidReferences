@@ -396,6 +396,7 @@
 + Hit by the Bus: QoS Degradation Attack on Android, AsiaCCS 2017 
 + µDroid: An Energy-Aware Mutation Testing Framework for Android, FSE 2017 (tool: µDroid)
 + Leveraging Program Analysis to Reduce User-Perceived Latency in Mobile Applications, ICSE 2018
++ EARMO: An Energy-Aware Refactoring Approach for Mobile Apps, TSE 2018 (tool: EARMO)
 
 
 ## Android GUI Analysis
