@@ -151,6 +151,7 @@
   + SimplyDroid: efficient event sequence simplification for Android application, ASE 2017 (tool: DimplyDroid)
   + Automated cross-platform inconsistency detection for mobile apps, ASE 2017 (tool: DiffDroid)
   + DetReduce: Minimizing Android GUI Test Suites for Regression Testing, ICSE 2018
+  + Efficiently Manifesting Asynchronous Programming Errors in Android Apps, ASE 2018 (tool: APEChecker)
 
 ## Native Code Analysis
  + Finding Bugs in Java Native Interface Programs, ISSTA 2008
