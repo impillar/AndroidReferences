@@ -362,7 +362,20 @@
 + Finding Clues for Your Secrets: Semantics-Driven, Learning-Based Privacy Discovery in Mobile Apps, NDSS 2018
 + AceDroid: Normalizing Diverse Android Access Control Checks for Inconsistency Detection, NDSS 2018 (tool: AceDroid)
 
-## Performance & Energy Analysis
+## Performance Analysis
++ Responsiveness Analysis Tool for Android Applications, DeMobile 2014
++ SunCat: Helping Developers Understand and Predict Performance Problems in Smartphone Applications, ISSTA 2014 (tool: SunCat)
++ Characterizing and Detecting Performance Bugs for Smartphone Applications, ICSE 2014 (tool: PerfChecker)
++ How Developers Detect and Fix Performance Bottlenecks in Android Apps, ICSME 2015
++ PersisDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions, arXiv 2015
++ CLAPP: Characterizing Loops in Android Applications, FSE 2015 (tool: CLAPP)
++ DiagDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions, FSE 2016 (tool: DiagDroid)
++ Mining Test Repositories for Automatic Detection of UI Performance Regressions in Android Apps (tool: DUNE)
++ Hit by the Bus: QoS Degradation Attack on Android, AsiaCCS 2017 
++ Leveraging Program Analysis to Reduce User-Perceived Latency in Mobile Applications, ICSE 2018
++ Remove RATs from your code: automated optimization of resource inefficient database writes for mobile applications, ISSTA 2018
+
+## Energy Analysis
 + Accurate Online Power Estimation and Automatic Battery Behavior Based Power Model Generation for Smartphones, CODES+ISSS 2010(tool: PowerTutor)
 + Monitoring Energy Consumption of Smartphones, iThings/CPSCom 2011(tool: SEMO)
 + Bootstrapping Energy Debugging on Smartphones: A First Look at Energy Bugs in Mobile Devices, HotNets-X 2011
@@ -371,11 +384,8 @@
 + eDoctor: Automatically Diagnosing Abnormal Battery Drain Issues on Smartphones, USENIX 2013(tool: eDoctor)
 + Calculating Source Line Level Energy Information for Android Applications, ISSTA 2013 (tool: vLens)
 + GreenDroid: Automated Diagnosis of Energy Inefficiency for Smartphone Applications, TSE 2014
-+ Responsiveness Analysis Tool for Android Applications, DeMobile 2014
 + Detecting Energy Bugs and Hotspots in Mobile Apps, FSE 2014
-+ SunCat: Helping Developers Understand and Predict Performance Problems in Smartphone Applications, ISSTA 2014 (tool: SunCat)
 + Retrofitting Concurrency for Android Applications Through Refactoring, FSE 2014 (tool: Asynchronizer)
-+ Characterizing and Detecting Performance Bugs for Smartphone Applications, ICSE 2014 (tool: PerfChecker)
 + Making Web Applications More Energy Efficient for OLED Smartphones, ICSE 2014 (tool: Nyx)
 + Comparing Energy Profilers for Android, 21st Twente Student Conference on IT 2014
 + Mining Energy-Greedy API Usage Patterns in Android Apps: An Empirical Study, MSR 2014
@@ -383,22 +393,14 @@
 + Optimizing Energy of HTTP Requests in Android Applications, DeMobile 2015
 + EnTrack: A System Facility for Analyzing Energy Consumption of Android System Services, UbiComp 2015
 + Runtime Verification of Expected Energy Consumption in Smartphones, Model Checking Software 2015
-+ How Developers Detect and Fix Performance Bottlenecks in Android Apps, ICSME 2015
-+ PersisDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions, arXiv 2015
-+ CLAPP: Characterizing Loops in Android Applications, FSE 2015 (tool: CLAPP)
 + Energy-Aware Test-Suite Minimization for Android Apps, ISSTA 2016
 + Automatically Verifying and Reproducing Event-based Races in Android Apps, ISSTA 2016
 + Battery-Aware Mobile Data Service, TMC 2016 (tool: B-MODS)
 + Automated Energy Optimization of HTTP Requests for Mobile Applications, ICSE 2016 (tool: Bouquet)
 + DefDroid: Towards a More Defensive Mobile OS Against Disruptive App Behavior, MobySys 2016 (tool: DefDroid)
-+ DiagDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions, FSE 2016 (tool: DiagDroid)
-+ Mining Test Repositories for Automatic Detection of UI Performance Regressions in Android Apps (tool: DUNE)
 + Battery State-of-Health Estimation for Mobile Devices, ICCPS 2017 (tool: V-BASH)
-+ Hit by the Bus: QoS Degradation Attack on Android, AsiaCCS 2017 
 + µDroid: An Energy-Aware Mutation Testing Framework for Android, FSE 2017 (tool: µDroid)
-+ Leveraging Program Analysis to Reduce User-Perceived Latency in Mobile Applications, ICSE 2018
 + EARMO: An Energy-Aware Refactoring Approach for Mobile Apps, TSE 2018 (tool: EARMO)
-
 
 ## Android GUI Analysis
 + Automating GUI Testing for Android Applications, AST 2011
