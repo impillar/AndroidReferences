@@ -152,6 +152,7 @@
   + Automated cross-platform inconsistency detection for mobile apps, ASE 2017 (tool: DiffDroid)
   + DetReduce: Minimizing Android GUI Test Suites for Regression Testing, ICSE 2018
   + Efficiently Manifesting Asynchronous Programming Errors in Android Apps, ASE 2018 (tool: APEChecker)
+  + An Empirical Study of Android Test Generation Tools in Industrial Cases, ASE 2018
 
 ## Native Code Analysis
  + Finding Bugs in Java Native Interface Programs, ISSTA 2008
@@ -361,6 +362,10 @@
 + “Tipped Off by Your Memory Allocator”: Device-Wide User Activity Sequencing from Android Memory Images, NDSS 2018
 + Finding Clues for Your Secrets: Semantics-Driven, Learning-Based Privacy Discovery in Mobile Apps, NDSS 2018
 + AceDroid: Normalizing Diverse Android Access Control Checks for Inconsistency Detection, NDSS 2018 (tool: AceDroid)
++ Characterizing and Identifying Misexposed Activities in Android Applications, ASE 2018
++ A Tale of Two Cities: How WebView Induces Bugs to Android Applications, ASE 2018
++ Dual-Force: Understanding WebView Malware via Cross-language Forced Execution, ASE 2018
++ Self-Protection of Android Systems from Inter-Component Communication Attacks, ASE 2018
 
 ## Performance Analysis
 + Responsiveness Analysis Tool for Android Applications, DeMobile 2014
@@ -374,6 +379,7 @@
 + Hit by the Bus: QoS Degradation Attack on Android, AsiaCCS 2017 
 + Leveraging Program Analysis to Reduce User-Perceived Latency in Mobile Applications, ICSE 2018
 + Remove RATs from your code: automated optimization of resource inefficient database writes for mobile applications, ISSTA 2018
++ Empirically Assessing Opportunities for Prefetching and Caching in Mobile Apps, ASE 2018
 
 ## Energy Analysis
 + Accurate Online Power Estimation and Automatic Battery Behavior Based Power Model Generation for Smartphones, CODES+ISSS 2010(tool: PowerTutor)
@@ -423,6 +429,7 @@
 + From UI Design Image to GUI Skeleton: A Neural Machine Translator to Bootstrap Mobile GUI Implementation, ICSE 2018
 + GUILeak: Tracing Privacy-Policy Claims on User Input Data for Android Applications, ICSE 2018 (tool: GUILeak)
 + Launch-Mode-Aware Context-Sensitive Activity Transition Analysis for Android Apps, ICSE 2018
++ Detecting and Summarizing GUI Changes in Evolving Mobile Apps, ASE 2018
 
 ## Forensic Analysis
 + WHYPER: Towards Automating Risk Assessment of Mobile Applications, USENIX Security 2013
@@ -479,6 +486,7 @@
 ## Android Compatibility Issues
  + Understanding Android Fragmentation with Topic Analysis of Vendor-Specific Bugs, WCRE 2012
  + Taming Android Fragmentation: Characterizing and Detecting Compatibility Issues for Android Apps, ASE 2016 (tool: FicFinder)
+ + Understanding and Detecting Callback Compatibility Issues for Android Applications, ASE 2018
  
 ## Large-Scale Android Malware Analysis
  + Dissecting Android Malware: Characterization and Evoluation, S&P 2012
