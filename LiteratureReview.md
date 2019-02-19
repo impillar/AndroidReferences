@@ -50,7 +50,7 @@
   + A Monte Carlo Tree Search approach to Active Malware Analysis, IJCAI 2017
   + Android Malware Clustering through Malicious Payload Mining, RAID 2017
   + Detection of Repackaged Android Malware with Code-Heterogeneity Features, TDSC 2017 (tool: DR-Droid)
-
+  + JN-SAF: Precise and Efficient NDK/JNI-aware Inter-language Static Analysis Framework for Security Vetting of Android Applications with Native Code, CCS 2018 (tool: JN-SAF)
  
 + Dynamic Analysis
 
@@ -231,6 +231,7 @@
 + SPOKE: Scalable Knowledge Collection and Attack Surface Analysis of Access Control Policy for Security Enhanced Android, AsiaCCS 2017
 + InstaGuard: Instantly Deployable Hot-patches for Vulnerable System Programs on Android, NDSS 2018 (tool: InstaGuard)
 + A Temporal Permission Analysis and Enforcement Framework for Android, ICSE 2018
++ DroidCap: OS Support for Capability-based Permissions in Android, NDSS 2019 (tool: DroidCap)
 
 ## Android Permission System
 + A Formal Model to Analyze the Permission Authorization and Enforcement in the Android Framework, IEEE International Conference on Social Computing/IEEE International Conferene on Privacy, Security, Risk and Turst 2010
@@ -249,6 +250,8 @@
 + A Formal Approach for Detection of Security Flaws in the Android Permission System, Journal on Formal Aspects of Computing 2016
 + Resolving the Predicament of Android Custom Permissions, NDSS 2018
 + A Temporal Permission Analysis and Enforcement Framework for Android, ICSE 2018
++ Precise Android API Protection Mapping Derivation and Reasoning, CCS 2018 (tool: Arcade)
++ DroidCap: OS Support for Capability-based Permissions in Android, NDSS 2019 (tool: DroidCap)
 
 ## Anti-Malware Tool Auditing
 + DroidChameleon: Evaluating Android Anti-malware Against Transformation Attacks, AsiaCCS 2013
@@ -366,6 +369,17 @@
 + A Tale of Two Cities: How WebView Induces Bugs to Android Applications, ASE 2018
 + Dual-Force: Understanding WebView Malware via Cross-language Forced Execution, ASE 2018
 + Self-Protection of Android Systems from Inter-Component Communication Attacks, ASE 2018
++ PatternListener: Cracking Android Pattern Lock Using Acoustic Signals, CCS 2018 (tool: PatternListener)
++ Phishing Attacks on Modern Android, CCS 2018
++ ClickShield: Are You Hiding Something? Towards Eradicating Clickjacking on Android, CCS 2018 (tool: ClickShield)
++ EviHunter: Identifying Digital Evidence in the Permanent Storage of Android Devices via Static Analysis, CCS 2018 (tool: EviHunter)
++ Invetter: Locating Insecure Input Validations in Android Services, CCS 2018 (tool: Invetter)
++ Time Does Not Heal All Wounds: A Longitudinal Analysis of Security-Mechanism Support in Mobile Browsers, NDSS 2019
++ Understanding Open Ports in Android Applications: Discovery, Diagnosis, and Security Assessment, NDSS 2019
++ Total Recall: Persistence of Password in Android, NDSS 2019
++ Nearby Threats: Reversing, Analyzing, and Attacking Google’s “Nearby Connections” on Android, NDSS 2019
++ Tap 'n Ghost: A Compilation of Novel Attack Techniques against Smartphone Touchscreens, IEEE S&P 2019
++ Why Does Your Data Leak? Uncovering the Data Leakage in Cloud from Mobile Apps, IEEE S&P 2019
 
 ## Performance Analysis
 + Responsiveness Analysis Tool for Android Applications, DeMobile 2014
@@ -380,6 +394,7 @@
 + Leveraging Program Analysis to Reduce User-Perceived Latency in Mobile Applications, ICSE 2018
 + Remove RATs from your code: automated optimization of resource inefficient database writes for mobile applications, ISSTA 2018
 + Empirically Assessing Opportunities for Prefetching and Caching in Mobile Apps, ASE 2018
+
 
 ## Energy Analysis
 + Accurate Online Power Estimation and Automatic Battery Behavior Based Power Model Generation for Smartphones, CODES+ISSS 2010(tool: PowerTutor)
@@ -452,6 +467,7 @@
 + Enhancing the Description-to-Behavior Fidelity in Android Apps with Privacy Policy, TSE 2017 (tool: TAPVerifier)
 + OASIS: Prioritizing Static Analysis Warnings for Android Apps Based on App User Reviews, FSE 2017 (tool: OASIS)
 + Online App Review Analysis for Identifying Emerging Issues, ICSE 2018
++ Short Text, Large Effect: Measuring the Impact of User Reviews on Android App Security & Privacy, IEEE S&P 2019
 
 ## Obfuscation & Evasion Techniques
  + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
