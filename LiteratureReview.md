@@ -77,6 +77,7 @@
   + Charm: Facilitating Dynamic Analysis of Device Drivers of Mobile Systems, USENIX Security 2019 (tool: Charm)
 
 + Machine Learning
+
   + Crowdroid: Behavior-based Malware Detection System for Android, SPSM 2011
   + "Andromaly": a Behavioral Malware Detection Framework for Android Devices, Journal of Intelligent Information Systems 2012
   + A Machine Learning Approach to Android Malware Detection, EISIC 2012
@@ -103,9 +104,13 @@
   + LeakSemantic: Identifying Abnormal Sensitive Network Transmissions in Mobile Applications, arxiv 2017 (tool: LeakSemantic
   + HinDroid: An Intelligent Android Malware Detection System Based on Structured Heterogeneous Information Network, KDD 2017 (tool: HinDroid)
   + Detection of Repackaged Android Malware with Code-Heterogeneity Features, TDSC 2017 (tool: DR-Droid)
+  + SecureDroid: Enhancing Security of Machine Learning-based Detection against Adversarial Android Malware Attacks, ACSAC 2017 (SecureDroid)
   + TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time, USENIX Security 2019 (tool: TESSERACT)
-  + SEdroid: A Robust Android Malware Detector using Selective Ensemble Learning, CCS 2019 (tool: SEdroid)
-
+  + SEdroid: A Robust Android Malware Detector using Selective Ensemble Learning, CCS 2019 (not quite sure) (tool: SEdroid)
+  + DroidEvolver: Self-Evolving Android Malware Detection System, Euro S&P 2019
+  + Neurlux: Dynamic Malware Analysis Without Feature Engineering, ACSAC 2019 (tool: Neurlux)
+  + A Multi-modal Neural Embeddings Approach for Detecting Mobile Counterfeit Apps, WWW 2019
+  
 + Fingerprint & matching
 
   + Get Off of My Market: Detecting Malcious Apps in Official and ALternative Android Markets, NDSS 2012 (tool: DroidRanger)
@@ -207,6 +212,7 @@
 + Following Devil’s Footprints: Cross-Platform Analysis of Potentially Harmful Libraries on Android and iOS, S&P 2016 (tool: PhaLib)
 + Reliable Third-Party Library Detection in Android and its Security Applications, CCS 2016
 + LibD: Scalable and Precise Third-party Library Detection in Android Markets, ICSE 2017 (tool: LibD)
++ Revisiting Mobile Advertising Threats with MAdLife, WWW 2019 (tool: MAdLife)
 
 ## Inter-Component Communication Analysis
 + Analyzing Inter-Application Communication in Android, MobiSys 2011 (tool: ComDroid)
@@ -318,6 +324,8 @@
 + Self-Hiding Behavior in Android Apps: Detection and Characterization, ICSE 2018
 + A Large Scale Investigation of Obfuscation Use in Google Play, arXiv 2018
 + ATtention Spanned: Comprehensive Vulnerability Analysis of AT Commands Within the Android Ecosystem, USENIX Security 2019
++ Opening Pandora's Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones, ACSAC 2019
++ Understanding the Evolution of Mobile App Ecosystems: A Longitudinal Measurement Study of Google Play, WWW 2019
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
@@ -399,6 +407,7 @@
 + Kindness is a Risky Business: On the Usage of the Accessibility APIs in Android, RAID 2019
 + HideMyApp: Hiding the Presence of Sensitive Apps on Android, USENIX Security 2019 (tool: HideMyApp)
 + PatternListener: Cracking Android Pattern Lock Using Acoustic Signals, CCS 2019 (tool: PatternListener)
++ An Empirical Study of the SMS One-Time Password Authentication in Android Apps, ACSAC 2019
 
 ## Performance Analysis
 + Responsiveness Analysis Tool for Android Applications, DeMobile 2014
@@ -465,7 +474,7 @@
 + Launch-Mode-Aware Context-Sensitive Activity Transition Analysis for Android Apps, ICSE 2018
 + Detecting and Summarizing GUI Changes in Evolving Mobile Apps, ASE 2018
 + IconIntent: Automatic Identification of Sensitive UI Widgets based on Icon Classification for Android Apps, ICSE 2019 (tool: IconIntent)
-
++ DeepIntent: Deep Icon-Behavior Learning for Detecting Intention-Behavior Discrepancy in Mobile Apps, CCS 2019 (tool: DeepIntent)
 
 ## Forensic Analysis
 + WHYPER: Towards Automating Risk Assessment of Mobile Applications, USENIX Security 2013
@@ -490,6 +499,7 @@
 + Online App Review Analysis for Identifying Emerging Issues, ICSE 2018
 + StoryDroid: Automated Generation of Storyboard for Android Apps, ICSE 2019 (tool: StoryDroid)
 + Short Text, Large Effect: Measuring the Impact of User Reviews on Android App Security & Privacy, IEEE S&P 2019
++ The Art and Craft of Fraudulent App Promotion in Google Play, CCS 2019
 
 ## Obfuscation & Evasion Techniques
  + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
