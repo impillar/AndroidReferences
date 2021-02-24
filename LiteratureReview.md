@@ -55,6 +55,8 @@
   + Towards Large-Scale Hunting for Android Negative-Day Malware, RAID 2019 (tool: Lshand)
   + Discovering Flaws in Security-Focused Static Analysis Tools for Android using Systematic Mutation, USENIX Security 2019
   + FlowCog: Context-aware Semantics Extraction and Analysis of Information Flow Leaks in Android Apps, USENIX Security 2019
+  + A Qualitative Analysis of Android Taint-Analysis Results, ASE 2019 (tool: COVA)
+  + ER Catcher: A Static Analysis Framework for Accurate and Scalable Event-Race Detection in Android, ASE 2020 (tool: ER Catcher)
   
 + Dynamic Analysis
 
@@ -169,6 +171,11 @@
   + An Empirical Study of Android Test Generation Tools in Industrial Cases, ASE 2018
   + Practical GUI testing of Android applications via model abstraction and refinement, ICSE 2019
   + Mimic: UI Compatibility Testing System for Android Apps, ICSE 2019 (tool: Mimic)
+  + DaPanda: Detecting Aggressive Push Notification in Android Apps, ASE 2019 (tool: DaPanda)
+  +	Goal-Driven Exploration for Android Applications, ASE 2019 (tool: GoalExplorer)
+  +	Test Transfer Across Mobile Apps Through Semantic Mapping, ASE 2019 (tool: CraftDroid)
+  +	Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android, ASE 2020
+  +	Test Automation in Open-Source Android Apps: A Large-Scale Empirical Study, ASE 2020
 
 
 ## Native Code Analysis
@@ -213,6 +220,7 @@
 + Reliable Third-Party Library Detection in Android and its Security Applications, CCS 2016
 + LibD: Scalable and Precise Third-party Library Detection in Android Markets, ICSE 2017 (tool: LibD)
 + Revisiting Mobile Advertising Threats with MAdLife, WWW 2019 (tool: MAdLife)
++ Automated Third-party Library Detection for Android Applications: Are We There Yet? ASE 2020 (tool: LibPecker)
 
 ## Inter-Component Communication Analysis
 + Analyzing Inter-Application Communication in Android, MobiSys 2011 (tool: ComDroid)
@@ -326,6 +334,9 @@
 + ATtention Spanned: Comprehensive Vulnerability Analysis of AT Commands Within the Android Ecosystem, USENIX Security 2019
 + Opening Pandora's Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones, ACSAC 2019
 + Understanding the Evolution of Mobile App Ecosystems: A Longitudinal Measurement Study of Google Play, WWW 2019
++ Characterizing Android App Signing Issues, ASE 2019
++ OAuthLint: An Empirical Study on OAuth Bugs in Android Applications, ASE 2019 (tool: OAuthLint)
++ Demystifying Diehard Android Apps, ASE 2020
 
 ## Automatic Malware Generation
 + Automatic Generation of Mobile Malware Using Genetic Programming, Applications of Evolutionary Computation, 2015
@@ -422,6 +433,7 @@
 + Leveraging Program Analysis to Reduce User-Perceived Latency in Mobile Applications, ICSE 2018
 + Remove RATs from your code: automated optimization of resource inefficient database writes for mobile applications, ISSTA 2018
 + Empirically Assessing Opportunities for Prefetching and Caching in Mobile Apps, ASE 2018
++ Demystifying Application Performance Management Libraries for Android, ASE 2019
 
 
 ## Energy Analysis
@@ -475,6 +487,7 @@
 + Detecting and Summarizing GUI Changes in Evolving Mobile Apps, ASE 2018
 + IconIntent: Automatic Identification of Sensitive UI Widgets based on Icon Classification for Android Apps, ICSE 2019 (tool: IconIntent)
 + DeepIntent: Deep Icon-Behavior Learning for Detecting Intention-Behavior Discrepancy in Mobile Apps, CCS 2019 (tool: DeepIntent)
++ Owl Eyes: Spotting UI Display Issues via Visual Understanding, ASE 2020 (tool: Owl Eyes)
 
 ## Forensic Analysis
 + WHYPER: Towards Automating Risk Assessment of Mobile Applications, USENIX Security 2013
@@ -500,6 +513,7 @@
 + StoryDroid: Automated Generation of Storyboard for Android Apps, ICSE 2019 (tool: StoryDroid)
 + Short Text, Large Effect: Measuring the Impact of User Reviews on Android App Security & Privacy, IEEE S&P 2019
 + The Art and Craft of Fraudulent App Promotion in Google Play, CCS 2019
++ Automating App Review Response Generation, ASE 2019 (tool: RRGen)
 
 ## Obfuscation & Evasion Techniques
  + Evading Android Runtime Analysis via Sandbox Detection, AsiaCCS 2014
@@ -508,6 +522,7 @@
  + Statistical Deobfuscation of Android Applications, CCS 2016
  + Software Protection on the Go: A Large-Scale Empirical Study on Mobile App Obfuscation, ICSE 2018
  + Tackling runtime-based obfuscation in Android with TIRO, USENIX Security 2019
+ + UI Obfuscation and Its Effects on Automated UI Analysis for Android Apps, ASE 2020
 
 ## Fuzzing Test for Vulnerabilities
  + Droidfuzzer: Fuzzing the Android Apps with Intent-filter Tag, MoMM 2013 (tool: Droidfuzzer)
